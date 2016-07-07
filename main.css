@@ -1,0 +1,177 @@
+@font-face
+{
+  font-family: "SourceSansPro";
+  src: 
+  	url( "http://www.mtsac.edu/_resources/_assets/fonts/SourceSansPro-Regular.eot");
+  src: 
+  	url( "http://www.mtsac.edu/_resources/_assets/fonts/SourceSansPro-Regular.eot?#iefix" ) format("embedded-opentype"), 
+  	url( "http://www.mtsac.edu/_resources/_assets/fonts/SourceSansPro-Regular.woff" ) format("woff"), 
+  	url( "http://www.mtsac.edu/_resources/_assets/fonts/SourceSansPro-Regular.ttf" ) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+body
+{
+	background: #F6F2EF;
+	font-family: "SourceSansPro";
+}
+
+#search_field {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: #F6F2EF;
+}
+
+a
+{
+  text-decoration: none;
+}
+
+#mainContent
+{
+	margin: 0 auto;
+	width: 90%;
+}
+
+h1
+{
+	font-size: 30px;
+}
+
+.col
+{
+	border-right: 1px solid #CCC;
+	float: left;
+	overflow: visible;
+	padding-right: 1%;
+	width: 23%;
+}
+
+.col:last-child
+{
+	border-right: none;
+}
+
+.col .inner
+{
+	margin: 0 auto;
+	width: 90%;
+}
+
+.col h4
+{
+	font-size: 22px;
+	font-weight: 600;
+}
+
+.sectionContainer
+{
+  overflow: hidden;
+  width: 100%;
+}
+
+.sectionContainer .dept-head 
+{
+	color: #000;
+	display: block;
+	padding: 5px;
+	text-decoration: none;
+	width: 100%;
+}
+
+.sectionContainer .dept-head:hover,
+.open .dept-head
+{
+	background-image: 
+		linear-gradient( 
+			rgb( 169, 3, 41 ) 0%,
+			rgb( 143, 2, 23 ) 44%,
+			rgb( 109, 0, 25 ) 100%
+		)
+	;
+	color: #FFF;
+}
+
+.hiddenSub
+{
+  border-left: 2px solid #999;
+  display: none;
+  list-style: none;
+  margin: 0 0 0 10px;
+  opacity: 0;
+  padding-left: 10px;
+}
+
+.hiddenSub li
+{
+	margin-bottom: 5px;
+}
+
+/*
+ * STYLES FOR ALL SUB-MENU ITEMS
+ */
+.itemHeading
+{
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.staticMap .mapHover img
+{
+  box-shadow: inset 10px 10px 100px rgba( 255, 0, 0, 1 );
+}
+
+.viewFullMap
+{
+  display: block;
+  font-size: 12px;
+  text-align: right;
+  width: 100%;
+}
+
+.test
+{
+
+  background-color: transparent;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  display: block;
+  max-width: none;
+  padding-bottom: 55%;
+  transition: box-shadow 375ms;
+  width: auto;
+}
+
+.test:hover
+{
+  box-shadow: inset 0px 0px 8px 0px rgba( 0, 0, 0, 1 );
+}
+
+.highlighted {
+  background-color: yellow;
+}
+
+
+
+ @media screen and ( max-width: 1000px )
+ {
+	.col
+	{
+		margin-bottom: 50px;
+		width: 48%;
+	}
+	
+	.col:nth-of-type( 2n )
+	{
+		border-right: none;
+		clear: right;
+	}
+	
+	.col:nth-of-type( 3 )
+	{
+		clear: left;
+	}
+}

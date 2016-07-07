@@ -1,0 +1,943 @@
+<buildings>
+    <Building>
+        <code>10</code>
+        <name>Founders Hall</name>
+    </Building>
+    <Building>
+        <code>11</code>
+        <name>Bldg. 11</name>
+    </Building>
+    <Building>
+        <code>11A</code>
+        <name>Bldg. 11A</name>
+    </Building>
+    <Building>
+        <code>12</code>
+        <name>Bldg. 12</name>
+    </Building>
+    <Building>
+        <code>12A</code>
+        <name>Foundation Office</name>
+    </Building>
+    <Building>
+        <code>13</code>
+        <name>Bldg. 13-Design Technology</name>
+    </Building>
+    <Building>
+        <code>16B</code>
+        <name>Bldg. 16B</name>
+    </Building>
+    <Building>
+        <code>16C</code>
+        <name>Bldg. 16C</name>
+    </Building>
+    <Building>
+        <code>16D</code>
+        <name>Bldg. 16D</name>
+    </Building>
+    <Building>
+        <code>17</code>
+        <name>Bldg. 17</name>
+    </Building>
+    <Building>
+        <code>18</code>
+        <name>Bldg. 18</name>
+    </Building>
+    <Building>
+        <code>18A</code>
+        <name>Bldg. 18A</name>
+    </Building>
+    <Building>
+        <code>18B</code>
+        <name>Bldg. 18B</name>
+    </Building>
+    <Building>
+        <code>18C</code>
+        <name>Bldg. 18C</name>
+    </Building>
+    <Building>
+        <code>18D</code>
+        <name>Bldg. 18D</name>
+    </Building>
+    <Building>
+        <code>19A</code>
+        <name>Child Development Center South</name>
+    </Building>
+    <Building>
+        <code>19B</code>
+        <name>Bldg. 19B</name>
+    </Building>
+    <Building>
+        <code>19C</code>
+        <name>Mountie Grill</name>
+    </Building>
+    <Building>
+        <code>1A</code>
+        <name>Bldg 1A</name>
+    </Building>
+    <Building>
+        <code>1B/C</code>
+        <name>Bldg 1B/C</name>
+    </Building>
+    <Building>
+        <code>2</code>
+        <name>Bldg 2</name>
+    </Building>
+    <Building>
+        <code>20</code>
+        <name>Bldg. 20</name>
+    </Building>
+    <Building>
+        <code>21A</code>
+        <name>Bldg. 21A</name>
+    </Building>
+    <Building>
+        <code>21B</code>
+        <name>Bldg. 21B</name>
+    </Building>
+    <Building>
+        <code>21C</code>
+        <name>Bldg. 21C</name>
+    </Building>
+    <Building>
+        <code>21D</code>
+        <name>Bldg. 21D</name>
+    </Building>
+    <Building>
+        <code>21E</code>
+        <name>Bldg. 21E</name>
+    </Building>
+    <Building>
+        <code>21F</code>
+        <name>Bldg. 21F</name>
+    </Building>
+    <Building>
+        <code>21G</code>
+        <name>Bldg. 21G</name>
+    </Building>
+    <Building>
+        <code>21H</code>
+        <name>Bldg. 21H</name>
+    </Building>
+    <Building>
+        <code>21I</code>
+        <name>Bldg. 21I</name>
+    </Building>
+    <Building>
+        <code>21J</code>
+        <name>Bldg. 21J</name>
+    </Building>
+    <Building>
+        <code>23</code>
+        <name>College Services</name>
+    </Building>
+    <Building>
+        <code>23A</code>
+        <name>Data Center</name>
+    </Building>
+    <Building>
+        <code>26A</code>
+        <name>Bldg 26A</name>
+    </Building>
+    <RESULT/>
+    <Building>
+        <code>26C</code>
+        <name>Bldg 26C</name>
+    </Building>
+    <Building>
+        <code>26D</code>
+        <name>Bldg 26D</name>
+    </Building>
+    <Building>
+        <code>27A</code>
+        <name>Bldg 27A</name>
+    </Building>
+    <Building>
+        <code>27B</code>
+        <name>Bldg 27B</name>
+    </Building>
+    <Building>
+        <code>27C</code>
+        <name>Bldg 27C</name>
+    </Building>
+    <Building>
+        <code>27T</code>
+        <name>Tennis Courts</name>
+    </Building>
+    <Building>
+        <code>28A</code>
+        <name>Bldg 28A</name>
+    </Building>
+    <Building>
+        <code>28B</code>
+        <name>Bldg 28B</name>
+    </Building>
+    <Building>
+        <code>29A</code>
+        <name>Bldg. 29A</name>
+    </Building>
+    <Building>
+        <code>29D</code>
+        <name>Bldg. 29D</name>
+    </Building>
+    <Building>
+        <code>3</code>
+        <name>Bldg 3</name>
+    </Building>
+    <Building>
+        <code>30</code>
+        <name>Bldg 30</name>
+    </Building>
+    <Building>
+        <code>31A</code>
+        <name>Bldg 31A</name>
+    </Building>
+    <Building>
+        <code>31B</code>
+        <name>Bldg 31B</name>
+    </Building>
+    <Building>
+        <code>32</code>
+        <name>Bldg 32</name>
+    </Building>
+    <Building>
+        <code>33</code>
+        <name>Bldg 33</name>
+    </Building>
+    <Building>
+        <code>35</code>
+        <name>Bldg 35</name>
+    </Building>
+    <Building>
+        <code>36</code>
+        <name>Bldg 36</name>
+    </Building>
+    <Building>
+        <code>38A</code>
+        <name>Bldg 38A</name>
+    </Building>
+    <Building>
+        <code>38B</code>
+        <name>Bldg 38B</name>
+    </Building>
+    <Building>
+        <code>4</code>
+        <name>Administration</name>
+    </Building>
+    <Building>
+        <code>40</code>
+        <name>Bldg. 40</name>
+    </Building>
+    <Building>
+        <code>44</code>
+        <name>Bldg. 44</name>
+    </Building>
+    <Building>
+        <code>45</code>
+        <name>Bldg 45</name>
+    </Building>
+    <Building>
+        <code>45B</code>
+        <name>Baseball Field</name>
+    </Building>
+    <Building>
+        <code>45G</code>
+        <name>Golf Field</name>
+    </Building>
+    <Building>
+        <code>45S</code>
+        <name>Soccer Field</name>
+    </Building>
+    <Building>
+        <code>45SB</code>
+        <name>Softball Field</name>
+    </Building>
+    <Building>
+        <code>46</code>
+        <name>Facilities Management</name>
+    </Building>
+    <Building>
+        <code>47</code>
+        <name>Facilities Management</name>
+    </Building>
+    <Building>
+        <code>48</code>
+        <name>Receiving / Transportation</name>
+    </Building>
+    <Building>
+        <code>5</code>
+        <name>Bldg 5</name>
+    </Building>
+    <Building>
+        <code>50CC</code>
+        <name>Cross Country</name>
+    </Building>
+    <Building>
+        <code>50D</code>
+        <name>Stadium Press Box</name>
+    </Building>
+    <Building>
+        <code>50FF</code>
+        <name>Fire Field</name>
+    </Building>
+    <Building>
+        <code>50G</code>
+        <name>Bldg 50G</name>
+    </Building>
+    <Building>
+        <code>50H</code>
+        <name>Stadium Concessions</name>
+    </Building>
+    <Building>
+        <code>50P</code>
+        <name>Football Practice</name>
+    </Building>
+    <Building>
+        <code>51</code>
+        <name>Athletic Storage</name>
+    </Building>
+    <Building>
+        <code>5A</code>
+        <name>Bldg 5A</name>
+    </Building>
+    <Building>
+        <code>6</code>
+        <name>Bldg 6-Library/LTC</name>
+    </Building>
+    <Building>
+        <code>60</code>
+        <name>Bldg 60</name>
+    </Building>
+    <Building>
+        <code>61</code>
+        <name>Bldg 61</name>
+    </Building>
+    <Building>
+        <code>66</code>
+        <name>Bldg 66</name>
+    </Building>
+    <Building>
+        <code>67A</code>
+        <name>Bldg 67A</name>
+    </Building>
+    <Building>
+        <code>67B</code>
+        <name>Bldg 67B</name>
+    </Building>
+    <Building>
+        <code>69</code>
+        <name>Bldg 69</name>
+    </Building>
+    <Building>
+        <code>6A</code>
+        <name>Information Kiosk</name>
+    </Building>
+    <Building>
+        <code>7</code>
+        <name>Bldg 7</name>
+    </Building>
+    <Building>
+        <code>70</code>
+        <name>Bldg 70 Child Development</name>
+    </Building>
+    <Building>
+        <code>71</code>
+        <name>Bldg 71 Child Development</name>
+    </Building>
+    <Building>
+        <code>72</code>
+        <name>Bldg 72 Child Development</name>
+    </Building>
+    <Building>
+        <code>73</code>
+        <name>Bldg 73 Child Development</name>
+    </Building>
+    <Building>
+        <code>8</code>
+        <name>Campus Inn</name>
+    </Building>
+    <Building>
+        <code>80</code>
+        <name>Agricultural Sciences</name>
+    </Building>
+    <Building>
+        <code>9A</code>
+        <name>Bookstore/Auxiliary Services</name>
+    </Building>
+    <Building>
+        <code>9B</code>
+        <name>Student Services Center</name>
+    </Building>
+    <Building>
+        <code>9C</code>
+        <name>Student Life Center</name>
+    </Building>
+    <Building>
+        <code>9D</code>
+        <name>Student Services</name>
+    </Building>
+    <Building>
+        <code>9E</code>
+        <name>Student Success Center</name>
+    </Building>
+    <Building>
+        <code>ABROAD</code>
+        <name>Study Abroad</name>
+    </Building>
+    <Building>
+        <code>AGSC-B</code>
+        <name>Agriculture Mechanics</name>
+    </Building>
+    <Building>
+        <code>ALHS</code>
+        <name>Alhambra High School</name>
+    </Building>
+    <Building>
+        <code>ARBR</code>
+        <name>Arbor Glen Care Center</name>
+    </Building>
+    <Building>
+        <code>ARC</code>
+        <name>American Recovery Center</name>
+    </Building>
+    <Building>
+        <code>ARROW</code>
+        <name>Arrowhead Regional Medical Ctr</name>
+    </Building>
+    <Building>
+        <code>BASSHS</code>
+        <name>Bassett High School</name>
+    </Building>
+    <Building>
+        <code>BEV</code>
+        <name>BEV</name>
+    </Building>
+    <Building>
+        <code>BHC</code>
+        <name>BHC Alhambra Hospital</name>
+    </Building>
+    <RESULT/>
+    <Building>
+        <code>BPHS</code>
+        <name>Baldwin Park High School</name>
+    </Building>
+    <Building>
+        <code>BRACKT</code>
+        <name>Brackett Field</name>
+    </Building>
+    <Building>
+        <code>BRDG</code>
+        <name>Bridgecreek Retirement Center</name>
+    </Building>
+    <Building>
+        <code>BROOK</code>
+        <name>Brookdale San Dimas</name>
+    </Building>
+    <Building>
+        <code>BRTN</code>
+        <name>Brighton Gardens</name>
+    </Building>
+    <Building>
+        <code>CBCH</code>
+        <name>Casa Bonita Convalescent Hosp.</name>
+    </Building>
+    <Building>
+        <code>CBSSNF</code>
+        <name>Clara Baldwin Stocker SNF</name>
+    </Building>
+    <Building>
+        <code>CCHCH</code>
+        <name>Casa Colina Hospital</name>
+    </Building>
+    <Building>
+        <code>CDCN-B</code>
+        <name>Child Dev. Center - North B</name>
+    </Building>
+    <Building>
+        <code>CHART</code>
+        <name>Charter Oak</name>
+    </Building>
+    <Building>
+        <code>CHC</code>
+        <name>College Hospital Cerritos</name>
+    </Building>
+    <Building>
+        <code>CHINO</code>
+        <name>Chino Valley Medical Cener</name>
+    </Building>
+    <Building>
+        <code>CHLA</code>
+        <name>Childrens Hospital Los Angeles</name>
+    </Building>
+    <Building>
+        <code>CHS</code>
+        <name>Covina High School</name>
+    </Building>
+    <Building>
+        <code>CM</code>
+        <name>Claremont Manor</name>
+    </Building>
+    <Building>
+        <code>CNYN</code>
+        <name>Canyon Terrace Apartments</name>
+    </Building>
+    <Building>
+        <code>COMPHS</code>
+        <name>Canyon Oaks/Mountain Pk HS</name>
+    </Building>
+    <Building>
+        <code>COUN</code>
+        <name>Country View Retirement Home</name>
+    </Building>
+    <Building>
+        <code>COV</code>
+        <name>Atria - Covina</name>
+    </Building>
+    <Building>
+        <code>COV-AT</code>
+        <name>Atria Covina</name>
+    </Building>
+    <Building>
+        <code>COVGAR</code>
+        <name>Covina Gardens</name>
+    </Building>
+    <Building>
+        <code>CROSAS</code>
+        <name>Carolyn Rosas Park</name>
+    </Building>
+    <Building>
+        <code>CVIFD</code>
+        <name>Chino Valley Ind Fire District</name>
+    </Building>
+    <Building>
+        <code>DBC</code>
+        <name>Diamond Bar Center</name>
+    </Building>
+    <Building>
+        <code>DBHS</code>
+        <name>Diamond Bar High School</name>
+    </Building>
+    <Building>
+        <code>DBL</code>
+        <name>Diamond Bar Library</name>
+    </Building>
+    <Building>
+        <code>DESGAR</code>
+        <name>Descanso Gardens</name>
+    </Building>
+    <Building>
+        <code>DRHS</code>
+        <name>Diamond Ranch High School</name>
+    </Building>
+    <Building>
+        <code>EHS</code>
+        <name>Edgewood High School</name>
+    </Building>
+    <RESULT/>
+    <Building>
+        <code>ESEALS</code>
+        <name>Easter Seals</name>
+    </Building>
+    <Building>
+        <code>F1</code>
+        <name>Horticulture Unit</name>
+    </Building>
+    <Building>
+        <code>F1A</code>
+        <name>Horticulture Unit A</name>
+    </Building>
+    <Building>
+        <code>F2A</code>
+        <name>Horticulture Office</name>
+    </Building>
+    <Building>
+        <code>F2B</code>
+        <name>Farm Storage</name>
+    </Building>
+    <Building>
+        <code>F2C</code>
+        <name>Landscaping/Irrigation Lab</name>
+    </Building>
+    <Building>
+        <code>F3</code>
+        <name>Equipment Barn</name>
+    </Building>
+    <Building>
+        <code>F4</code>
+        <name>Swine Barn</name>
+    </Building>
+    <Building>
+        <code>F5</code>
+        <name>Vivarium</name>
+    </Building>
+    <Building>
+        <code>F7A</code>
+        <name>Equipment Technology Unit</name>
+    </Building>
+    <Building>
+        <code>F7B</code>
+        <name>Ag. Mechanics</name>
+    </Building>
+    <Building>
+        <code>F8</code>
+        <name>Horse Unit</name>
+    </Building>
+    <Building>
+        <code>F9</code>
+        <name>Livestock Pavillion</name>
+    </Building>
+    <Building>
+        <code>FAHS</code>
+        <name>Fremont Academy High School</name>
+    </Building>
+    <Building>
+        <code>FIELD</code>
+        <name>Field Experience</name>
+    </Building>
+    <Building>
+        <code>FNR</code>
+        <name>Foothill Nursing/Rehab Center</name>
+    </Building>
+    <Building>
+        <code>FOOT</code>
+        <name>Foothill Presbyterian Hospital</name>
+    </Building>
+    <Building>
+        <code>GANHS</code>
+        <name>Ganesha High School</name>
+    </Building>
+    <Building>
+        <code>GARHS</code>
+        <name>Garey High School</name>
+    </Building>
+    <Building>
+        <code>GELMCH</code>
+        <name>Greater El Monte Comm. Hosp.</name>
+    </Building>
+    <Building>
+        <code>GMC</code>
+        <name>Garfield Medical Center</name>
+    </Building>
+    <Building>
+        <code>GPP</code>
+        <name>Ganesha Park Pool</name>
+    </Building>
+    <Building>
+        <code>HERI</code>
+        <name>Heritgage Park Community Ctr</name>
+    </Building>
+    <Building>
+        <code>HI-LEA</code>
+        <name>Hi Lea Mobile Home Park</name>
+    </Building>
+    <Building>
+        <code>HILL</code>
+        <name>Hillcrest Aquatic &amp; Fitness Ct</name>
+    </Building>
+    <Building>
+        <code>HOSP</code>
+        <name>Hospital</name>
+    </Building>
+    <Building>
+        <code>HUNT</code>
+        <name>Huntington Memorial Hospital</name>
+    </Building>
+    <Building>
+        <code>ICC</code>
+        <name>Inter-Community Campus</name>
+    </Building>
+    <Building>
+        <code>ICMC</code>
+        <name>INACTIVE</name>
+    </Building>
+    <Building>
+        <code>ICWC</code>
+        <name>Infinity Care of West Covina</name>
+    </Building>
+    <Building>
+        <code>IDHL</code>
+        <name>Village at Indian Hill</name>
+    </Building>
+    <Building>
+        <code>INGL</code>
+        <name>Ingleside Hospital</name>
+    </Building>
+    <Building>
+        <code>IRC</code>
+        <name>Irwindale Recreation Center</name>
+    </Building>
+    <Building>
+        <code>IRWN</code>
+        <name>Irwindale Senior Citizens Ctr</name>
+    </Building>
+    <Building>
+        <code>JOS</code>
+        <name>Joslyn Senior Citizens Center</name>
+    </Building>
+    <Building>
+        <code>KBP</code>
+        <name>Kaiser Baldwin Park</name>
+    </Building>
+    <Building>
+        <code>LA-ARB</code>
+        <name>Los Angeles Arboretum</name>
+    </Building>
+    <Building>
+        <code>LACO</code>
+        <name>Los Angeles Cty Fire Training</name>
+    </Building>
+    <Building>
+        <code>LADERA</code>
+        <name>La Dera Serra Park</name>
+    </Building>
+    <Building>
+        <code>LAHS</code>
+        <name>Los Altos High School</name>
+    </Building>
+    <Building>
+        <code>LASENC</code>
+        <name>Las Encinas Hospital</name>
+    </Building>
+    <Building>
+        <code>LAWORK</code>
+        <name>LA Works Resource Center</name>
+    </Building>
+    <Building>
+        <code>LPHS</code>
+        <name>La Puente High School</name>
+    </Building>
+    <Building>
+        <code>LV</code>
+        <name>La Verne Community Center</name>
+    </Building>
+    <Building>
+        <code>MAS</code>
+        <name>Masonic Home</name>
+    </Building>
+    <Building>
+        <code>MIRADA</code>
+        <name>Mirada Hills Rehabilitation</name>
+    </Building>
+    <Building>
+        <code>MKHS</code>
+        <name>Mark Keppel High School</name>
+    </Building>
+    <Building>
+        <code>MSAG</code>
+        <name>Mt. San Antonio Gardens</name>
+    </Building>
+    <Building>
+        <code>NHS</code>
+        <name>Nogales High School</name>
+    </Building>
+    <Building>
+        <code>NVHS</code>
+        <name>Northview High School</name>
+    </Building>
+    <Building>
+        <code>OAKTR</code>
+        <name>Oak Tree Lodge</name>
+    </Building>
+    <Building>
+        <code>OCAM</code>
+        <name>Off Campus</name>
+    </Building>
+    <Building>
+        <code>ONLINE</code>
+        <name>Online Class</name>
+    </Building>
+    <Building>
+        <code>ONTA</code>
+        <name>Ontario Fire Training Center</name>
+    </Building>
+    <Building>
+        <code>PAHS</code>
+        <name>Palomares Academy High School</name>
+    </Building>
+    <Building>
+        <code>PATH</code>
+        <name>Pathfinder Park Comm. Ctr</name>
+    </Building>
+    <Building>
+        <code>PHS</code>
+        <name>Pomona High School</name>
+    </Building>
+    <Building>
+        <code>PIH</code>
+        <name>Presbyterian Intercomm Hosp.</name>
+    </Building>
+    <Building>
+        <code>PILPLC</code>
+        <name>Pilgrim Place Health Svcs Ctr</name>
+    </Building>
+    <Building>
+        <code>PKSIDE</code>
+        <name>Parkside West Medical Center</name>
+    </Building>
+    <Building>
+        <code>PKVSTA</code>
+        <name>ParkVista at Morningside</name>
+    </Building>
+    <Building>
+        <code>PLUM</code>
+        <name>Stanley Plummer Building</name>
+    </Building>
+    <Building>
+        <code>POOL</code>
+        <name>Pool</name>
+    </Building>
+    <Building>
+        <code>PROTYP</code>
+        <name>Prototypes Women&apos;s Center</name>
+    </Building>
+    <Building>
+        <code>PSC</code>
+        <name>Palomares Senior Center</name>
+    </Building>
+    <Building>
+        <code>PVHMC</code>
+        <name>Pomona Valley Hospital Med Ctr</name>
+    </Building>
+    <Building>
+        <code>QOVH</code>
+        <name>Queen of the Valley Hospital</name>
+    </Building>
+    <Building>
+        <code>RAN</code>
+        <name>Atria - Rancho Park Adult Cmty</name>
+    </Building>
+    <Building>
+        <code>RGNT</code>
+        <name>Regent Senior Living</name>
+    </Building>
+    <RESULT/>
+    <Building>
+        <code>RIVCO</code>
+        <name>Riverside County Regional Park</name>
+    </Building>
+    <Building>
+        <code>ROW</code>
+        <name>Rowland Convalescent Hospital</name>
+    </Building>
+    <Building>
+        <code>SARH</code>
+        <name>San Antonio Regional Hospital</name>
+    </Building>
+    <Building>
+        <code>SBDC</code>
+        <name>Small Business Dev. Ctr.</name>
+    </Building>
+    <Building>
+        <code>SD</code>
+        <name>San Dimas Senior/Community Ctr</name>
+    </Building>
+    <Building>
+        <code>SDHS</code>
+        <name>San Dimas High School</name>
+    </Building>
+    <Building>
+        <code>SDMS</code>
+        <name>San Dimas Retirement Center</name>
+    </Building>
+    <Building>
+        <code>SDSR</code>
+        <name>San Dimas Swim/Racquet Club</name>
+    </Building>
+    <Building>
+        <code>SGHS</code>
+        <name>San Gabriel High School</name>
+    </Building>
+    <Building>
+        <code>SGVTC</code>
+        <name>San Gabriel Vall. Train. Cent.</name>
+    </Building>
+    <Building>
+        <code>SHHS</code>
+        <name>South Hills High School</name>
+    </Building>
+    <Building>
+        <code>SILVAL</code>
+        <name>Silverado Sr. Living-Alhambra</name>
+    </Building>
+    <Building>
+        <code>SILVER</code>
+        <name>Silverado Senior Living-Azusa</name>
+    </Building>
+    <Building>
+        <code>SOP</code>
+        <name>Shadow Oak Park</name>
+    </Building>
+    <Building>
+        <code>STDIUM</code>
+        <name>Stadium</name>
+    </Building>
+    <Building>
+        <code>STJUDE</code>
+        <name>St. Jude Medical Center</name>
+    </Building>
+    <Building>
+        <code>STSEAT</code>
+        <name>Stadium Bleachers</name>
+    </Building>
+    <Building>
+        <code>SVHS</code>
+        <name>Sierra Vista High School</name>
+    </Building>
+    <Building>
+        <code>VAHS</code>
+        <name>Village Academy High School</name>
+    </Building>
+    <Building>
+        <code>VHLV</code>
+        <name>Veterans Hall, La Verne</name>
+    </Building>
+    <Building>
+        <code>VILA</code>
+        <name>Villa Colima</name>
+    </Building>
+    <Building>
+        <code>WALT</code>
+        <name>Walnut Senior Center</name>
+    </Building>
+    <Building>
+        <code>WCHS</code>
+        <name>West Covina High School</name>
+    </Building>
+    <Building>
+        <code>WCSCC</code>
+        <name>West Covina Senior Citizens</name>
+    </Building>
+    <Building>
+        <code>WHIT</code>
+        <name>Whittier Hospital</name>
+    </Building>
+    <Building>
+        <code>WHS</code>
+        <name>Walnut High School</name>
+    </Building>
+    <Building>
+        <code>WILHS</code>
+        <name>Wilson High School</name>
+    </Building>
+    <Building>
+        <code>WKHS</code>
+        <name>Workman High School</name>
+    </Building>
+    <Building>
+        <code>WOOD</code>
+        <name>Woods Memorial/Hillcrest Homes</name>
+    </Building>
+    <RESULT/>
+    <Building>
+        <code>WPCC</code>
+        <name>Westmost Park Community Center</name>
+    </Building>
+    <Building>
+        <code>WPK</code>
+        <name>Washington Park</name>
+    </Building>
+    <Building>
+        <code>WVBAP</code>
+        <name>Walnut Valley, First Baptist</name>
+    </Building>
+</buildings>

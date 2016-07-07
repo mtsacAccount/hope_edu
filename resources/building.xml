@@ -1,0 +1,964 @@
+<?xml version="1.0" ?>
+<ROWDATA>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;10&lt;/code&gt;&lt;name&gt;Founders Hall&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;11&lt;/code&gt;&lt;name&gt;Bldg. 11&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;11A&lt;/code&gt;&lt;name&gt;Bldg. 11A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;12&lt;/code&gt;&lt;name&gt;Bldg. 12&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;12A&lt;/code&gt;&lt;name&gt;Foundation Office&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;13&lt;/code&gt;&lt;name&gt;Bldg. 13-Design Technology&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT></RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;16B&lt;/code&gt;&lt;name&gt;Bldg. 16B&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;16C&lt;/code&gt;&lt;name&gt;Bldg. 16C&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;16D&lt;/code&gt;&lt;name&gt;Bldg. 16D&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;17&lt;/code&gt;&lt;name&gt;Bldg. 17&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;18&lt;/code&gt;&lt;name&gt;Bldg. 18&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;18A&lt;/code&gt;&lt;name&gt;Bldg. 18A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;18B&lt;/code&gt;&lt;name&gt;Bldg. 18B&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;18C&lt;/code&gt;&lt;name&gt;Bldg. 18C&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;18D&lt;/code&gt;&lt;name&gt;Bldg. 18D&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;19A&lt;/code&gt;&lt;name&gt;Child Development Center South&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;19B&lt;/code&gt;&lt;name&gt;Bldg. 19B&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;19C&lt;/code&gt;&lt;name&gt;Mountie Grill&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;1A&lt;/code&gt;&lt;name&gt;Bldg 1A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;1B/C&lt;/code&gt;&lt;name&gt;Bldg 1B/C&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;2&lt;/code&gt;&lt;name&gt;Bldg 2&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;20&lt;/code&gt;&lt;name&gt;Bldg. 20&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;21A&lt;/code&gt;&lt;name&gt;Bldg. 21A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;21B&lt;/code&gt;&lt;name&gt;Bldg. 21B&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;21C&lt;/code&gt;&lt;name&gt;Bldg. 21C&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;21D&lt;/code&gt;&lt;name&gt;Bldg. 21D&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;21E&lt;/code&gt;&lt;name&gt;Bldg. 21E&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;21F&lt;/code&gt;&lt;name&gt;Bldg. 21F&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;21G&lt;/code&gt;&lt;name&gt;Bldg. 21G&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;21H&lt;/code&gt;&lt;name&gt;Bldg. 21H&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;21I&lt;/code&gt;&lt;name&gt;Bldg. 21I&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;21J&lt;/code&gt;&lt;name&gt;Bldg. 21J&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;23&lt;/code&gt;&lt;name&gt;College Services&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;23A&lt;/code&gt;&lt;name&gt;Data Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;26A&lt;/code&gt;&lt;name&gt;Bldg 26A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT></RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;26C&lt;/code&gt;&lt;name&gt;Bldg 26C&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;26D&lt;/code&gt;&lt;name&gt;Bldg 26D&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;27A&lt;/code&gt;&lt;name&gt;Bldg 27A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;27B&lt;/code&gt;&lt;name&gt;Bldg 27B&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;27C&lt;/code&gt;&lt;name&gt;Bldg 27C&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;27T&lt;/code&gt;&lt;name&gt;Tennis Courts&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;28A&lt;/code&gt;&lt;name&gt;Bldg 28A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;28B&lt;/code&gt;&lt;name&gt;Bldg 28B&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;29A&lt;/code&gt;&lt;name&gt;Bldg. 29A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;29D&lt;/code&gt;&lt;name&gt;Bldg. 29D&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;3&lt;/code&gt;&lt;name&gt;Bldg 3&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;30&lt;/code&gt;&lt;name&gt;Bldg 30&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;31A&lt;/code&gt;&lt;name&gt;Bldg 31A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;31B&lt;/code&gt;&lt;name&gt;Bldg 31B&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;32&lt;/code&gt;&lt;name&gt;Bldg 32&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;33&lt;/code&gt;&lt;name&gt;Bldg 33&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;35&lt;/code&gt;&lt;name&gt;Bldg 35&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;36&lt;/code&gt;&lt;name&gt;Bldg 36&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;38A&lt;/code&gt;&lt;name&gt;Bldg 38A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;38B&lt;/code&gt;&lt;name&gt;Bldg 38B&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;4&lt;/code&gt;&lt;name&gt;Administration&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;40&lt;/code&gt;&lt;name&gt;Bldg. 40&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;44&lt;/code&gt;&lt;name&gt;Bldg. 44&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;45&lt;/code&gt;&lt;name&gt;Bldg 45&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;45B&lt;/code&gt;&lt;name&gt;Baseball Field&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;45G&lt;/code&gt;&lt;name&gt;Golf Field&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;45S&lt;/code&gt;&lt;name&gt;Soccer Field&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;45SB&lt;/code&gt;&lt;name&gt;Softball Field&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;46&lt;/code&gt;&lt;name&gt;Facilities Management&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;47&lt;/code&gt;&lt;name&gt;Facilities Management&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;48&lt;/code&gt;&lt;name&gt;Receiving / Transportation&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;5&lt;/code&gt;&lt;name&gt;Bldg 5&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;50CC&lt;/code&gt;&lt;name&gt;Cross Country&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;50D&lt;/code&gt;&lt;name&gt;Stadium Press Box&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;50FF&lt;/code&gt;&lt;name&gt;Fire Field&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;50G&lt;/code&gt;&lt;name&gt;Bldg 50G&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;50H&lt;/code&gt;&lt;name&gt;Stadium Concessions&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;50P&lt;/code&gt;&lt;name&gt;Football Practice&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;51&lt;/code&gt;&lt;name&gt;Athletic Storage&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;5A&lt;/code&gt;&lt;name&gt;Bldg 5A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;6&lt;/code&gt;&lt;name&gt;Bldg 6-Library/LTC&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;60&lt;/code&gt;&lt;name&gt;Bldg 60&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;61&lt;/code&gt;&lt;name&gt;Bldg 61&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;66&lt;/code&gt;&lt;name&gt;Bldg 66&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;67A&lt;/code&gt;&lt;name&gt;Bldg 67A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;67B&lt;/code&gt;&lt;name&gt;Bldg 67B&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;69&lt;/code&gt;&lt;name&gt;Bldg 69&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;6A&lt;/code&gt;&lt;name&gt;Information Kiosk&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;7&lt;/code&gt;&lt;name&gt;Bldg 7&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;70&lt;/code&gt;&lt;name&gt;Bldg 70 Child Development&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;71&lt;/code&gt;&lt;name&gt;Bldg 71 Child Development&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;72&lt;/code&gt;&lt;name&gt;Bldg 72 Child Development&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;73&lt;/code&gt;&lt;name&gt;Bldg 73 Child Development&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;8&lt;/code&gt;&lt;name&gt;Campus Inn&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;80&lt;/code&gt;&lt;name&gt;Agricultural Sciences&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;9A&lt;/code&gt;&lt;name&gt;Bookstore/Auxiliary Services&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;9B&lt;/code&gt;&lt;name&gt;Student Services Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;9C&lt;/code&gt;&lt;name&gt;Student Life Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;9D&lt;/code&gt;&lt;name&gt;Student Services&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;9E&lt;/code&gt;&lt;name&gt;Student Success Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ABROAD&lt;/code&gt;&lt;name&gt;Study Abroad&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;AGSC-B&lt;/code&gt;&lt;name&gt;Agriculture Mechanics&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ALHS&lt;/code&gt;&lt;name&gt;Alhambra High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ARBR&lt;/code&gt;&lt;name&gt;Arbor Glen Care Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ARC&lt;/code&gt;&lt;name&gt;American Recovery Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ARROW&lt;/code&gt;&lt;name&gt;Arrowhead Regional Medical Ctr&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;BASSHS&lt;/code&gt;&lt;name&gt;Bassett High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;BEV&lt;/code&gt;&lt;name&gt;BEV&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;BHC&lt;/code&gt;&lt;name&gt;BHC Alhambra Hospital&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT></RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;BPHS&lt;/code&gt;&lt;name&gt;Baldwin Park High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;BRACKT&lt;/code&gt;&lt;name&gt;Brackett Field&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;BRDG&lt;/code&gt;&lt;name&gt;Bridgecreek Retirement Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;BROOK&lt;/code&gt;&lt;name&gt;Brookdale San Dimas&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;BRTN&lt;/code&gt;&lt;name&gt;Brighton Gardens&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CBCH&lt;/code&gt;&lt;name&gt;Casa Bonita Convalescent Hosp.&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CBSSNF&lt;/code&gt;&lt;name&gt;Clara Baldwin Stocker SNF&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CCHCH&lt;/code&gt;&lt;name&gt;Casa Colina Hospital&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CDCN-B&lt;/code&gt;&lt;name&gt;Child Dev. Center - North B&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CHART&lt;/code&gt;&lt;name&gt;Charter Oak&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CHC&lt;/code&gt;&lt;name&gt;College Hospital Cerritos&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CHINO&lt;/code&gt;&lt;name&gt;Chino Valley Medical Cener&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CHLA&lt;/code&gt;&lt;name&gt;Childrens Hospital Los Angeles&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CHS&lt;/code&gt;&lt;name&gt;Covina High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CM&lt;/code&gt;&lt;name&gt;Claremont Manor&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CNYN&lt;/code&gt;&lt;name&gt;Canyon Terrace Apartments&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;COMPHS&lt;/code&gt;&lt;name&gt;Canyon Oaks/Mountain Pk HS&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;COUN&lt;/code&gt;&lt;name&gt;Country View Retirement Home&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;COV&lt;/code&gt;&lt;name&gt;Atria - Covina&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;COV-AT&lt;/code&gt;&lt;name&gt;Atria Covina&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;COVGAR&lt;/code&gt;&lt;name&gt;Covina Gardens&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CROSAS&lt;/code&gt;&lt;name&gt;Carolyn Rosas Park&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;CVIFD&lt;/code&gt;&lt;name&gt;Chino Valley Ind Fire District&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;DBC&lt;/code&gt;&lt;name&gt;Diamond Bar Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;DBHS&lt;/code&gt;&lt;name&gt;Diamond Bar High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;DBL&lt;/code&gt;&lt;name&gt;Diamond Bar Library&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;DESGAR&lt;/code&gt;&lt;name&gt;Descanso Gardens&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;DRHS&lt;/code&gt;&lt;name&gt;Diamond Ranch High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;EHS&lt;/code&gt;&lt;name&gt;Edgewood High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT></RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ESEALS&lt;/code&gt;&lt;name&gt;Easter Seals&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F1&lt;/code&gt;&lt;name&gt;Horticulture Unit&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F1A&lt;/code&gt;&lt;name&gt;Horticulture Unit A&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F2A&lt;/code&gt;&lt;name&gt;Horticulture Office&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F2B&lt;/code&gt;&lt;name&gt;Farm Storage&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F2C&lt;/code&gt;&lt;name&gt;Landscaping/Irrigation Lab&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F3&lt;/code&gt;&lt;name&gt;Equipment Barn&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F4&lt;/code&gt;&lt;name&gt;Swine Barn&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F5&lt;/code&gt;&lt;name&gt;Vivarium&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F7A&lt;/code&gt;&lt;name&gt;Equipment Technology Unit&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F7B&lt;/code&gt;&lt;name&gt;Ag. Mechanics&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F8&lt;/code&gt;&lt;name&gt;Horse Unit&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;F9&lt;/code&gt;&lt;name&gt;Livestock Pavillion&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;FAHS&lt;/code&gt;&lt;name&gt;Fremont Academy High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;FIELD&lt;/code&gt;&lt;name&gt;Field Experience&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;FNR&lt;/code&gt;&lt;name&gt;Foothill Nursing/Rehab Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;FOOT&lt;/code&gt;&lt;name&gt;Foothill Presbyterian Hospital&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;GANHS&lt;/code&gt;&lt;name&gt;Ganesha High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;GARHS&lt;/code&gt;&lt;name&gt;Garey High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;GELMCH&lt;/code&gt;&lt;name&gt;Greater El Monte Comm. Hosp.&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;GMC&lt;/code&gt;&lt;name&gt;Garfield Medical Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;GPP&lt;/code&gt;&lt;name&gt;Ganesha Park Pool&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;HERI&lt;/code&gt;&lt;name&gt;Heritgage Park Community Ctr&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;HI-LEA&lt;/code&gt;&lt;name&gt;Hi Lea Mobile Home Park&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;HILL&lt;/code&gt;&lt;name&gt;Hillcrest Aquatic &amp;amp; Fitness Ct&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;HOSP&lt;/code&gt;&lt;name&gt;Hospital&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;HUNT&lt;/code&gt;&lt;name&gt;Huntington Memorial Hospital&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ICC&lt;/code&gt;&lt;name&gt;Inter-Community Campus&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ICMC&lt;/code&gt;&lt;name&gt;INACTIVE&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ICWC&lt;/code&gt;&lt;name&gt;Infinity Care of West Covina&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;IDHL&lt;/code&gt;&lt;name&gt;Village at Indian Hill&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;INGL&lt;/code&gt;&lt;name&gt;Ingleside Hospital&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;IRC&lt;/code&gt;&lt;name&gt;Irwindale Recreation Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;IRWN&lt;/code&gt;&lt;name&gt;Irwindale Senior Citizens Ctr&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;JOS&lt;/code&gt;&lt;name&gt;Joslyn Senior Citizens Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;KBP&lt;/code&gt;&lt;name&gt;Kaiser Baldwin Park&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;LA-ARB&lt;/code&gt;&lt;name&gt;Los Angeles Arboretum&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;LACO&lt;/code&gt;&lt;name&gt;Los Angeles Cty Fire Training&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;LADERA&lt;/code&gt;&lt;name&gt;La Dera Serra Park&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;LAHS&lt;/code&gt;&lt;name&gt;Los Altos High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;LASENC&lt;/code&gt;&lt;name&gt;Las Encinas Hospital&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;LAWORK&lt;/code&gt;&lt;name&gt;LA Works Resource Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;LPHS&lt;/code&gt;&lt;name&gt;La Puente High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;LV&lt;/code&gt;&lt;name&gt;La Verne Community Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;MAS&lt;/code&gt;&lt;name&gt;Masonic Home&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;MIRADA&lt;/code&gt;&lt;name&gt;Mirada Hills Rehabilitation&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;MKHS&lt;/code&gt;&lt;name&gt;Mark Keppel High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;MSAG&lt;/code&gt;&lt;name&gt;Mt. San Antonio Gardens&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;NHS&lt;/code&gt;&lt;name&gt;Nogales High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;NVHS&lt;/code&gt;&lt;name&gt;Northview High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;OAKTR&lt;/code&gt;&lt;name&gt;Oak Tree Lodge&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;OCAM&lt;/code&gt;&lt;name&gt;Off Campus&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ONLINE&lt;/code&gt;&lt;name&gt;Online Class&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ONTA&lt;/code&gt;&lt;name&gt;Ontario Fire Training Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;PAHS&lt;/code&gt;&lt;name&gt;Palomares Academy High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;PATH&lt;/code&gt;&lt;name&gt;Pathfinder Park Comm. Ctr&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;PHS&lt;/code&gt;&lt;name&gt;Pomona High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;PIH&lt;/code&gt;&lt;name&gt;Presbyterian Intercomm Hosp.&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;PILPLC&lt;/code&gt;&lt;name&gt;Pilgrim Place Health Svcs Ctr&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;PKSIDE&lt;/code&gt;&lt;name&gt;Parkside West Medical Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;PKVSTA&lt;/code&gt;&lt;name&gt;ParkVista at Morningside&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;PLUM&lt;/code&gt;&lt;name&gt;Stanley Plummer Building&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;POOL&lt;/code&gt;&lt;name&gt;Pool&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;PROTYP&lt;/code&gt;&lt;name&gt;Prototypes Women&amp;apos;s Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;PSC&lt;/code&gt;&lt;name&gt;Palomares Senior Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;PVHMC&lt;/code&gt;&lt;name&gt;Pomona Valley Hospital Med Ctr&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;QOVH&lt;/code&gt;&lt;name&gt;Queen of the Valley Hospital&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;RAN&lt;/code&gt;&lt;name&gt;Atria - Rancho Park Adult Cmty&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;RGNT&lt;/code&gt;&lt;name&gt;Regent Senior Living&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT></RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;RIVCO&lt;/code&gt;&lt;name&gt;Riverside County Regional Park&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;ROW&lt;/code&gt;&lt;name&gt;Rowland Convalescent Hospital&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SARH&lt;/code&gt;&lt;name&gt;San Antonio Regional Hospital&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SBDC&lt;/code&gt;&lt;name&gt;Small Business Dev. Ctr.&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SD&lt;/code&gt;&lt;name&gt;San Dimas Senior/Community Ctr&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SDHS&lt;/code&gt;&lt;name&gt;San Dimas High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SDMS&lt;/code&gt;&lt;name&gt;San Dimas Retirement Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SDSR&lt;/code&gt;&lt;name&gt;San Dimas Swim/Racquet Club&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SGHS&lt;/code&gt;&lt;name&gt;San Gabriel High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SGVTC&lt;/code&gt;&lt;name&gt;San Gabriel Vall. Train. Cent.&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SHHS&lt;/code&gt;&lt;name&gt;South Hills High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SILVAL&lt;/code&gt;&lt;name&gt;Silverado Sr. Living-Alhambra&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SILVER&lt;/code&gt;&lt;name&gt;Silverado Senior Living-Azusa&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SOP&lt;/code&gt;&lt;name&gt;Shadow Oak Park&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;STDIUM&lt;/code&gt;&lt;name&gt;Stadium&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;STJUDE&lt;/code&gt;&lt;name&gt;St. Jude Medical Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;STSEAT&lt;/code&gt;&lt;name&gt;Stadium Bleachers&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;SVHS&lt;/code&gt;&lt;name&gt;Sierra Vista High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;VAHS&lt;/code&gt;&lt;name&gt;Village Academy High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;VHLV&lt;/code&gt;&lt;name&gt;Veterans Hall, La Verne&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;VILA&lt;/code&gt;&lt;name&gt;Villa Colima&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;WALT&lt;/code&gt;&lt;name&gt;Walnut Senior Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;WCHS&lt;/code&gt;&lt;name&gt;West Covina High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;WCSCC&lt;/code&gt;&lt;name&gt;West Covina Senior Citizens&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;WHIT&lt;/code&gt;&lt;name&gt;Whittier Hospital&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;WHS&lt;/code&gt;&lt;name&gt;Walnut High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;WILHS&lt;/code&gt;&lt;name&gt;Wilson High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;WKHS&lt;/code&gt;&lt;name&gt;Workman High School&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;WOOD&lt;/code&gt;&lt;name&gt;Woods Memorial/Hillcrest Homes&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT></RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;WPCC&lt;/code&gt;&lt;name&gt;Westmost Park Community Center&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;WPK&lt;/code&gt;&lt;name&gt;Washington Park&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+<ROW>
+  <RESULT>&lt;Building&gt;&lt;code&gt;WVBAP&lt;/code&gt;&lt;name&gt;Walnut Valley, First Baptist&lt;/name&gt;&lt;/Building&gt;</RESULT>
+</ROW>
+
+</ROWDATA>

@@ -1,0 +1,12 @@
+[02-Jul-2016 18:08:44 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/read/get_data.php on line 3
+[02-Jul-2016 18:08:44 UTC] PHP Stack trace:
+[02-Jul-2016 18:08:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/read/get_data.php:0
+[02-Jul-2016 18:08:44 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/read/get_data.php on line 3
+[02-Jul-2016 18:08:44 UTC] PHP Stack trace:
+[02-Jul-2016 18:08:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/read/get_data.php:0
+[02-Jul-2016 18:08:44 UTC] PHP Fatal error:  Call to undefined function fixOfficerText() in /home/ubuntu/workspace/read/get_data.php on line 6
+[02-Jul-2016 18:08:44 UTC] PHP Stack trace:
+[02-Jul-2016 18:08:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/read/get_data.php:0
+[03-Jul-2016 01:37:21 UTC] PHP Parse error:  syntax error, unexpected 'title' (T_STRING) in /home/ubuntu/workspace/write/add_program.php on line 11
+[03-Jul-2016 04:16:11 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/ubuntu/workspace/read/get_employeeXML.php on line 8
+[03-Jul-2016 22:13:47 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/write/update_dept_id.php on line 67
