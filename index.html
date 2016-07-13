@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <title>Hope Edu Clone</title>
   <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.5/angular.min.js"></script>
+  <!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.5/angular.min.js"></script>-->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.0/foundation.min.css" type="text/css" />
   <link rel="stylesheet" href="main.css" type="text/css" />
 </head>
@@ -19,7 +20,7 @@
     <div id="mainContent">
       <div class="col">
         <div class="inner">
-          <h4>Departments &amp; Programs</h4>
+          <h4>Academic Programs</h4>
   
   
           <div class="sectionContainer closed" ng-repeat='dept in departments_programs | filter:searchText'>
@@ -40,17 +41,16 @@
   
       <div class="col">
         <div class="inner">
-          <h4>Offices &amp; Services</h4>
+          <h4>Offices &amp; Administration Services</h4>
   
           <div class="sectionContainer closed" ng-repeat='dept in offices_services | filter:searchText'>
-            <p><a href="#" class='dept-head'>{{dept.dept_name}}</a></p>
+            <p><a href="#" class='dept-head'>{{ :: dept.name}}</a></p>
             <ul class="hiddenSub">
-              <li>
-                {{dept.address}}<br />{{dept.city+', '}} {{dept.state+' '}} {{dept.zip}}
-              </li>
-              <li>Building {{ dept.building }}</li>
-              <li>Phone: {{ dept.phone }}</li>
-              <li>Fax: {{ dept.fax }}</li>
+              <li>Phone: {{ :: dept.phone}}</li>
+              <li ng-if="dept.email">Email: {{ :: dept.email}}</li>
+              <li><a ng-href="{{dept.map_url}}" target="_blank">Building: {{ dept.building }}</a></li>
+    
+              <li><a ng-href="{{dept.more_info_url}}" target="_blank">More Info</a></li>
             </ul>
           </div>
         </div>

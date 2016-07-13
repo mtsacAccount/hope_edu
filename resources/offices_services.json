@@ -299,7 +299,7 @@
              {
             "name": "Bookstore (SacBookRac)",
             "phone": "(909) 274-4475",
-            "email": "",
+            "email": ""
             "more_info_url": "http://bookstore.mtsac.edu/home.aspx",
             "building": "9A",
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=145512"
@@ -383,14 +383,6 @@
             "more_info_url": "http://mtsac.lwcal.com/#view/all",
             "building": "6-170",
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133989"
-            },
-             {
-            "name": "Wellness Center",
-            "phone": "(909) 274-4625",
-            "email": "",
-            "more_info_url": "http://www.mtsac.edu/wellness/",
-            "building": "27A",
-            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134035"
             },
              {
             "name": "Faculty Association",
@@ -529,13 +521,213 @@
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134070"
             },
              {
-            "name": "",
-            "phone": "(909) 274-",
+            "name": "Parking Office",
+            "phone": "(909) 274-4233",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/safety/",
+            "building": "23",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134029"
+            },
+             {
+            "name": "Parking Services Cashier",
+            "phone": "(909) 274-4299",
+            "email": "",
+            "more_info_url": "",
+            "building": "23",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134029"
+            },
+             {
+            "name": "Performing Arts Center Box Office",
+            "phone": "(909) 468-4050",
+            "email": "",
+            "more_info_url": "https://tickets.mtsac.edu/Online/",
+            "building": "2",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133986"
+            },
+             {
+            "name": "Performing Arts Operations",
+            "phone": "(909) 274-5623",
+            "email": "",
+            "more_info_url": "",
+            "building": "2",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133986"
+            },
+             {
+            "name": "Photo ID Services",
+            "phone": "(909) 274-4960",
+            "email": "",
+            "more_info_url": "",
+            "building": "4",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133988"
+            },
+             {
+            "name": "Planetarium",
+            "phone": "(909) 274-5795",
+            "email": "planetarium@mtsac.edu",
+            "more_info_url": "http://www.mtsac.edu/planetarium/",
+            "building": "26C",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134033"
+            },
+             {
+            "name": "Presentation Services",
+            "phone": "(909) 274-4273",
             "email": "",
             "more_info_url": "",
             "building": "",
             "map_url": ""
             },
+             {
+            "name": "Printing Services",
+            "phone": "(909) 274-4255",
+            "email": "",
+            "more_info_url": "https://printing.mtsac.edu/",
+            "building": "4",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133988"
+            },
+             {
+            "name": "Professional & Organizational Development",
+            "phone": "(909) 274-4504",
+            "email": " POD@mtsac.edu",
+            "more_info_url": "http://www.mtsac.edu/pod/",
+            "building": "6",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133989"
+            },
+             {
+            "name": "Purchasing Department",
+            "phone": "(909) 274-4245",
+            "email": "	purchasing@mtsac.edu",
+            "more_info_url": "http://www.mtsac.edu/purchasing/",
+            "building": "4",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133988"
+            },
+             {
+            "name": "Registration",
+            "phone": "(909) 274-4415",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/admissions/register-for-classes/index.html",
+            "building": "9B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133994"
+            },
+             {
+            "name": "Research & Institutional Effectiveness",
+            "phone": "(909) 274-4109",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/administration/research/",
+            "building": "4",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133988"
+            },
+             {
+            "name": "Risk Management",
+            "phone": "(909) 274-4230",
+            "email": "dlangevin@mtsac.edu",
+            "more_info_url": "http://www.mtsac.edu/risk/",
+            "building": "4",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133988"
+            },
+             {
+            "name": "Scholarship Program",
+            "phone": "(909) 274-4457",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/scholarships/",
+            "building": "9B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133994"
+            },
+             {
+            "name": "Security",
+            "phone": "(909) 274-4555",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/safety/",
+            "building": "23",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134029"
+            },
+             {
+            "name": "Stadium Ticket Office",
+            "phone": "(909) 274-4880",
+            "email": "",
+            "more_info_url": "https://tickets.mtsac.edu/Online/",
+            "building": "50A",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134057"
+            },
+             {
+            "name": "Student Life & Student Clubs",
+            "phone": "(909) 274-4525",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/studentlife/",
+            "building": "9C",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146384"
+            },
+             {
+            "name": "Student Services, Dean",
+            "phone": "(909) 274-6909",
+            "email": "",
+            "more_info_url": "",
+            "building": "9C",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146384"
+            },
+             {
+            "name": "Student Services, VP Office",
+            "phone": "(909) 274-4505",
+            "email": "",
+            "more_info_url": "",
+            "building": "9B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133994"
+            },
+             {
+            "name": "Upward Bound",
+            "phone": "(909) 274-5377",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/upwardbound/",
+            "building": "9B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133994"
+            },
+             {
+            "name": "Veterans Resource Center",
+            "phone": "(909) 274-6529",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/veterans/",
+            "building": "16C",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134007"
+            },
+             {
+            "name": "Warehouse",
+            "phone": "(909) 274-4870",
+            "email": "",
+            "more_info_url": "",
+            "building": "48",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134056"
+            },
+             {
+            "name": "Wellness Center",
+            "phone": "(909) 274-4625",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/wellness/",
+            "building": "27A",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134035"
+            },
+             {
+            "name": "Wildlife Sanctuary Tours",
+            "phone": "(909) 274-4794",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/wildlife/",
+            "building": "60",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134067"
+            },
+             {
+            "name": "Workforce Development Center",
+            "phone": "(909) 274-4027",
+            "email": "workforcetraining@mtsac.edu ",
+            "more_info_url": "http://www.mtsac.edu/wtc/",
+            "building": "40",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134051"
+            },
+             {
+            "name": "Writing Center",
+            "phone": "(909) 274-5325",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/writingcenter/",
+            "building": "26B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134032"
+            }
             
     ]
 }

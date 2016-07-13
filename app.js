@@ -1,207 +1,220 @@
 var app = angular.module('app', []);
 
-app.controller('MainCtrl', ['$scope',
-  function($scope) {
-    $scope.data = {
-      selected_dept: "SELECT A DEPARTMENT"
-    }
-    // 3 arrays of objects
-    $scope.departments_programs = [{
-        main_dir_section: "Departments and Programs",
-        dept_name: "Art Gallery",
-        address: "1100 N. Grand Ave",
-        city: "Walnut",
-        state: "CA",
-        zip: "91789",
-        building: "99",
-        phone: "909.274.4630",
-        fax: "909.274.2998",
-        text: ''
-      },
-
-      {
-        main_dir_section: "Departments and Programs",
-        dept_name: "Box Office",
-        address: "1100 N. Grand Ave",
-        city: "Walnut",
-        state: "CA",
-        zip: "91789",
-        building: "65",
-        phone: "909.274.4630",
-        fax: "909.274.2998",
-        text: ''
-      },
-
-      {
-        main_dir_section: "Departments and Programs",
-        dept_name: "Campus Safety",
-        address: "1100 N. Grand Ave",
-        city: "Walnut",
-        state: "CA",
-        zip: "91789",
-        building: "23",
-        phone: "909.274.4630",
-        fax: "909.274.2998",
-        text: ''
-      }
-    ]; // Departments & Programs Array
-
-    $scope.offices_services = [{
-        main_dir_section: "Offices & Services",
-        dept_name: "Athletics",
-        address: "1100 N. Grand Ave",
-        city: "Walnut",
-        state: "CA",
-        zip: "91789",
-        building: "71",
-        phone: "909.274.4630",
-        fax: "909.274.2998",
-        text: ''
-      },
-
-      {
-        main_dir_section: "Offices & Services",
-        dept_name: "Administration",
-        address: "1100 N. Grand Ave",
-        city: "Walnut",
-        state: "CA",
-        zip: "91789",
-        building: "91",
-        phone: "909.274.4630",
-        fax: "909.274.2998",
-        text: ''
-      },
-
-      {
-        main_dir_section: "Offices & Services",
-        dept_name: "Student Recreational Services",
-        address: "1100 N. Grand Ave",
-        city: "Walnut",
-        state: "CA",
-        zip: "91789",
-        building: "76",
-        phone: "909.274.4630",
-        fax: "909.274.2998",
-        text: ''
-      },
-
-      {
-        main_dir_section: "Offices & Services",
-        dept_name: "Student Health Services",
-        address: "1100 N. Grand Ave",
-        city: "Walnut",
-        state: "CA",
-        zip: "91789",
-        building: "55",
-        phone: "909.274.4630",
-        fax: "909.274.2998",
-        text: ''
-      }
-    ]; // Offices & Services Array
-
-    $scope.buildings_facilities = [{
-        main_dir_section: "Building & Facilities",
-        dept_name: "Math & Science",
-        address: "1100 N. Grand Ave",
-        city: "Walnut",
-        state: "CA",
-        zip: "91789",
-        building: "45",
-        phone: "909.274.4630",
-        fax: "909.274.2998",
-        map_pix_url: "http://codeovermatter.com/hope-edu/images/maps/map1.jpg",
-        map_url: "http://myatlascms.com/map/?id=811&mrkIid=134068",
-        text: ''
-      },
-
-      {
-        main_dir_section: "Building & Facilities",
-        dept_name: "Language Center",
-        address: "1100 N. Grand Ave",
-        city: "Walnut",
-        state: "CA",
-        zip: "91789",
-        building: "13",
-        phone: "909.274.4630",
-        fax: "909.274.2998",
-        map_pix_url: "http://codeovermatter.com/hope-edu/images/maps/map2.jpg",
-        map_url: "http://myatlascms.com/map/?id=811&mrkIid=134069",
-        text: ''
-      },
-
-      {
-        main_dir_section: "Building & Facilities",
-        dept_name: "Business Administration",
-        address: "1100 N. Grand Ave",
-        city: "Walnut",
-        state: "CA",
-        zip: "91789",
-        building: "66",
-        phone: "909.274.4630",
-        fax: "909.274.2998",
-        map_pix_url: "http://codeovermatter.com/hope-edu/images/maps/map3.jpg",
-        map_url: "http://myatlascms.com/map/?id=811&mrkIid=134073",
-        text: ''
-      },
-
-      {
-        main_dir_section: "Building & Facilities",
-        dept_name: "Child Care Center",
-        address: "1100 N. Grand Ave",
-        city: "Walnut",
-        state: "CA",
-        zip: "91789",
-        building: "10",
-        phone: "909.274.4630",
-        fax: "909.274.2998",
-        map_pix_url: "http://codeovermatter.com/hope-edu/images/maps/map4.jpg",
-        map_url: "http://myatlascms.com/map/?id=811&mrkIid=134096",
-        text: ''
-      }
-    ]; // Building & Facilities Array
+app.controller('MainCtrl', ["$scope", "$http", function($scope, $http) {
   
-    $scope.department_list = [{
-    "id" : 0,
-		"dept_name": "Information Technology",
-		"people": [{
-			"fname": "Vick",
-			"lname": "Eap"
-		}, {
-			"fname": "Matthew",
-			"lname": "Spellman"
-		}, {
-			"fname": "Betty",
-			"lname": "Lin"
-		}]
-	},
+  $http.get('resources/offices_services.json')
+  
+  .success(function(data, status, headers, config) {
+    $scope.offices_services = data.offices;
+  })
+  .error(function(data, status, headers, config) {
+    console.log('error occured');
+  });
+  
+}]);
 
-	{
-    "id" : 1,
-		"dept_name": "Alumni and Family Engagement",
-		"people": [{
-			"fname": "Joe",
-			"lname": "Shmoe"
-		}, {
-			"fname": "Mary",
-			"lname": "Jane"
-		}, {
-			"fname": "Sam",
-			"lname": "Lam"
-		}]
-	}, {
-    "id" : 2,
-		"dept_name": "Art",
-		"people": [
-      {"fname": "Edmund",
-			"lname": "Chase"}
-    ]
-	}, {
-    "id" : 3,
-		"dept_name": "Asian Studies",
-		"people": [{}]
-	}
-]
-  }]) /* End of Angular Code */
+// app.controller('MainCtrl', ['$scope',
+//   function($scope) {
+//     $scope.data = {
+//       selected_dept: "SELECT A DEPARTMENT"
+//     }
+//     // 3 arrays of objects
+//     $scope.departments_programs = [{
+//         main_dir_section: "Departments and Programs",
+//         dept_name: "Art Gallery",
+//         address: "1100 N. Grand Ave",
+//         city: "Walnut",
+//         state: "CA",
+//         zip: "91789",
+//         building: "99",
+//         phone: "909.274.4630",
+//         fax: "909.274.2998",
+//         text: ''
+//       },
+
+//       {
+//         main_dir_section: "Departments and Programs",
+//         dept_name: "Box Office",
+//         address: "1100 N. Grand Ave",
+//         city: "Walnut",
+//         state: "CA",
+//         zip: "91789",
+//         building: "65",
+//         phone: "909.274.4630",
+//         fax: "909.274.2998",
+//         text: ''
+//       },
+
+//       {
+//         main_dir_section: "Departments and Programs",
+//         dept_name: "Campus Safety",
+//         address: "1100 N. Grand Ave",
+//         city: "Walnut",
+//         state: "CA",
+//         zip: "91789",
+//         building: "23",
+//         phone: "909.274.4630",
+//         fax: "909.274.2998",
+//         text: ''
+//       }
+//     ]; // Departments & Programs Array
+
+//     $scope.offices_services = [{
+//         main_dir_section: "Offices & Services",
+//         dept_name: "Athletics",
+//         address: "1100 N. Grand Ave",
+//         city: "Walnut",
+//         state: "CA",
+//         zip: "91789",
+//         building: "71",
+//         phone: "909.274.4630",
+//         fax: "909.274.2998",
+//         text: ''
+//       },
+
+//       {
+//         main_dir_section: "Offices & Services",
+//         dept_name: "Administration",
+//         address: "1100 N. Grand Ave",
+//         city: "Walnut",
+//         state: "CA",
+//         zip: "91789",
+//         building: "91",
+//         phone: "909.274.4630",
+//         fax: "909.274.2998",
+//         text: ''
+//       },
+
+//       {
+//         main_dir_section: "Offices & Services",
+//         dept_name: "Student Recreational Services",
+//         address: "1100 N. Grand Ave",
+//         city: "Walnut",
+//         state: "CA",
+//         zip: "91789",
+//         building: "76",
+//         phone: "909.274.4630",
+//         fax: "909.274.2998",
+//         text: ''
+//       },
+
+//       {
+//         main_dir_section: "Offices & Services",
+//         dept_name: "Student Health Services",
+//         address: "1100 N. Grand Ave",
+//         city: "Walnut",
+//         state: "CA",
+//         zip: "91789",
+//         building: "55",
+//         phone: "909.274.4630",
+//         fax: "909.274.2998",
+//         text: ''
+//       }
+//     ]; // Offices & Services Array
+
+//     $scope.buildings_facilities = [{
+//         main_dir_section: "Building & Facilities",
+//         dept_name: "Math & Science",
+//         address: "1100 N. Grand Ave",
+//         city: "Walnut",
+//         state: "CA",
+//         zip: "91789",
+//         building: "45",
+//         phone: "909.274.4630",
+//         fax: "909.274.2998",
+//         map_pix_url: "http://codeovermatter.com/hope-edu/images/maps/map1.jpg",
+//         map_url: "http://myatlascms.com/map/?id=811&mrkIid=134068",
+//         text: ''
+//       },
+
+//       {
+//         main_dir_section: "Building & Facilities",
+//         dept_name: "Language Center",
+//         address: "1100 N. Grand Ave",
+//         city: "Walnut",
+//         state: "CA",
+//         zip: "91789",
+//         building: "13",
+//         phone: "909.274.4630",
+//         fax: "909.274.2998",
+//         map_pix_url: "http://codeovermatter.com/hope-edu/images/maps/map2.jpg",
+//         map_url: "http://myatlascms.com/map/?id=811&mrkIid=134069",
+//         text: ''
+//       },
+
+//       {
+//         main_dir_section: "Building & Facilities",
+//         dept_name: "Business Administration",
+//         address: "1100 N. Grand Ave",
+//         city: "Walnut",
+//         state: "CA",
+//         zip: "91789",
+//         building: "66",
+//         phone: "909.274.4630",
+//         fax: "909.274.2998",
+//         map_pix_url: "http://codeovermatter.com/hope-edu/images/maps/map3.jpg",
+//         map_url: "http://myatlascms.com/map/?id=811&mrkIid=134073",
+//         text: ''
+//       },
+
+//       {
+//         main_dir_section: "Building & Facilities",
+//         dept_name: "Child Care Center",
+//         address: "1100 N. Grand Ave",
+//         city: "Walnut",
+//         state: "CA",
+//         zip: "91789",
+//         building: "10",
+//         phone: "909.274.4630",
+//         fax: "909.274.2998",
+//         map_pix_url: "http://codeovermatter.com/hope-edu/images/maps/map4.jpg",
+//         map_url: "http://myatlascms.com/map/?id=811&mrkIid=134096",
+//         text: ''
+//       }
+//     ]; // Building & Facilities Array
+  
+//     $scope.department_list = [{
+//     "id" : 0,
+// 		"dept_name": "Information Technology",
+// 		"people": [{
+// 			"fname": "Vick",
+// 			"lname": "Eap"
+// 		}, {
+// 			"fname": "Matthew",
+// 			"lname": "Spellman"
+// 		}, {
+// 			"fname": "Betty",
+// 			"lname": "Lin"
+// 		}]
+// 	},
+
+// 	{
+//     "id" : 1,
+// 		"dept_name": "Alumni and Family Engagement",
+// 		"people": [{
+// 			"fname": "Joe",
+// 			"lname": "Shmoe"
+// 		}, {
+// 			"fname": "Mary",
+// 			"lname": "Jane"
+// 		}, {
+// 			"fname": "Sam",
+// 			"lname": "Lam"
+// 		}]
+// 	}, {
+//     "id" : 2,
+// 		"dept_name": "Art",
+// 		"people": [
+//       {"fname": "Edmund",
+// 			"lname": "Chase"}
+//     ]
+// 	}, {
+//     "id" : 3,
+// 		"dept_name": "Asian Studies",
+// 		"people": [{}]
+// 	}
+// ]
+//   }]) /* End of Angular Code */
 
 function adjustCol() {
   var windowH = $(document).innerHeight();
