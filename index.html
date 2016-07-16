@@ -23,15 +23,13 @@
           <h4>Academic Programs</h4>
   
   
-          <div class="sectionContainer closed" ng-repeat='dept in departments_programs | filter:searchText'>
-            <p><a href="#" class='dept-head'>{{ dept.dept_name }}</a></p>
+          <div class="sectionContainer closed" ng-repeat='program in programs | filter:searchText'>
+            <p><a href="#" class='dept-head'>{{ :: program.name }}</a></p>
             <ul class="hiddenSub">
-              <li>
-                {{dept.address}}<br/>{{ dept.city+', '}} {{ dept.state+' '}} {{ dept.zip }}
-              </li>
-              <li>Building {{ dept.building }}</li>
-              <li>Phone: {{ dept.phone }}</li>
-              <li>Fax: {{ dept.fax }}</li>
+              <li ng-if="program.email">{{ :: program.email }}</li>
+              <li ng-if="program.building">Building {{ :: program.building }}</li>
+              <li ng-if="program.phone">Phone: {{ :: program.phone }}</li>
+              <li><a ng-href="{{program.more_info_url}}">More Info</a></li>
             </ul>
           </div>
         </div>
@@ -42,37 +40,32 @@
       <div class="col">
         <div class="inner">
           <h4>Offices &amp; Administration Services</h4>
-  
           <div class="sectionContainer closed" ng-repeat='dept in offices_services | filter:searchText'>
             <p><a href="#" class='dept-head'>{{ :: dept.name}}</a></p>
             <ul class="hiddenSub">
               <li>Phone: {{ :: dept.phone}}</li>
               <li ng-if="dept.email">Email: {{ :: dept.email}}</li>
-              <li><a ng-href="{{dept.map_url}}" target="_blank">Building: {{ dept.building }}</a></li>
-    
-              <li><a ng-href="{{dept.more_info_url}}" target="_blank">More Info</a></li>
+              <li><a ng-href={{dept.map_url}} target="_blank">Building: {{ :: dept.building }}</a></li>
+              <li><a ng-href={{dept.more_info_url}} target="_blank">More Info</a></li>
             </ul>
           </div>
-        </div>
-        <!-- end .inner -->
-      </div>
-      <!-- end .col -->
+        </div><!-- end .inner -->
+      </div><!-- end .col -->
   
       <div class="col">
         <div class="inner">
           <h4>Buildings &amp; Facilities</h4>
   
-          <div class="sectionContainer closed" ng-repeat='dept in buildings_facilities | filter:searchText'>
-            <p><a href="#" class='dept-head'>{{ dept.dept_name }}</a></p>
+          <div class="sectionContainer closed" ng-repeat='building in buildings_facilities | filter:searchText'>
+            <p><a href="#" class='dept-head' ng-if="building.code">{{ building.code + ' - ' + building.name }}</a></p>
+            <p><a href="#" class='dept-head' ng-if="!building.code">{{ building.name }}</a></p>
             <ul class='hiddenSub'>
-              <li class="itemHeading">Building {{ dept.building }}</li>
+              <li class="itemHeading">Building {{ building.code }}</li>
               <li>
-                <a href="#" ><img ng-src="{{ dept.map_pix_url }}" /></a>
-                <a class="viewFullMap" href="http://myatlascms.com/map/?id=811&mrkIid=134068" target='_blank'>View Full</a>
+                <a href="#" ><img ng-src="http://codeovermatter.com/hope-edu/images/maps/map3.jpg" /></a>
+                <a class="viewFullMap" ng-href="{{ building.map_url }}" target='_blank'>View Full Map</a>
               </li>
-              <li>Phone: {{ dept.phone }}</li>
-              <li>Fax: {{ dept.fax }}</li>
-              <li><a href="http://mtsac.edu">More Info</a></li>
+             
             </ul>
           </div>
         </div><!-- end .inner -->
@@ -114,6 +107,6 @@
     </div>
   </main>
   <!-- end #mainContent -->
-   <script type="text/javascript" src="app.js"></script>
+  <script type="text/javascript" src="app.js"></script>
   </body>
 </html>

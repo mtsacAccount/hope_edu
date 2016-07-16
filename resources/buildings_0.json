@@ -1,0 +1,50 @@
+{
+    "buildings": [
+        {
+              "name": "Design Technology Center",
+              "building": "13",
+              "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=139056" 
+        },
+        {
+            "name": "",
+            "building": "17",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
+        },
+        
+        {
+            "name": "",
+            "building" : "18",
+            "map_url" : "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        
+        
+        {
+            "name": "Technology Center",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+          
+         {
+            "name": "Athletics",
+            "building": "45",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134053"
+         },
+        
+         {
+            "name": "Welding/Air Conditioning",
+            "building": "69",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134072"
+        },
+         {
+            "name": "Language Center",
+            "building": "66",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134069"
+        },
+      
+        {
+            "name": "",
+            "building": "",
+            "map_url": ""
+        }
+    ]
+}

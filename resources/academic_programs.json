@@ -1,7 +1,160 @@
 {
     "academic_programs": [
         {
-            
-        }    
+            "name": "Accounting",
+			"phone": "(909) 274-3945",
+			"email": "Bdomico@mtsac.edu",
+			"more_info_url": "http://www.mtsac.edu/accounting/",
+			"building": "18",
+			"map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },   
+        {
+            "name": "Administration of Justice",
+			"phone": "",
+			"email": "wdennis@mtsac.edu",
+			"more_info_url": "http://catalog.mtsac.edu/programs-administration-of-justice-certificate/",
+			"building": "",
+			"map_url": ""
+        },  
+        {
+            "name": "Administrative Assistant",
+			"phone": "(909) 274-4600",
+			"email": "",
+			"more_info_url": "http://catalog.mtsac.edu/programs/administrative-assistant-degree/",
+			"building": "17",
+			"map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
+        },  
+      
+        {
+            "name": "Aeronautics & Transportation",
+			"phone": "(909) 274-5006",
+			"email": "",
+			"more_info_url": "http://www.mtsac.edu/aeronautics/",
+			"building": "28B",
+			"map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+        {
+            "name": "Agri-Technology",
+			"phone": "(909) 274-4540",
+			"email": "",
+			"more_info_url": "http://catalog.mtsac.edu/programs/agri-technology-degree/",
+			"building": "80",
+			"map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134077"
+        }, 
+        
+        {
+            "name": "Air Conditioning and Refrigeration",
+			"phone": "(909) 274-5107",
+			"email": "",
+			"more_info_url": "http://www.mtsac.edu/airconditioning/",
+			"building": "69",
+			"map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134072"
+        },  
+        {
+            "name": "Aircraft Maintenance",
+			"phone": "(909) 274-4772",
+			"email": "",
+			"more_info_url": "http://www.mtsac.edu/tech-health/aircraftmaintenance/",
+			"building": "28B",
+			"map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },  
+     
+        {
+            "name": "Alcohol/Drug Counseling",
+			"phone": "",
+			"email": "",
+			"more_info_url": "http://catalog.mtsac.edu/programs/alcohol-drug-counseling-certificate/",
+			"building": "",
+			"map_url": ""
+        },  
+        {
+            "name": "American Language",
+			"phone": "(909) 274-4588",
+			"email": "",
+			"more_info_url": "http://www.mtsac.edu/amla/",
+			"building": "66",
+			"map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134069"
+        }, 
+        {
+            "name": "Android Programming",
+			"phone": "",
+			"email": "",
+			"more_info_url": "http://catalog.mtsac.edu/programs/android-programming-certificate/",
+			"building": "",
+			"map_url": ""
+        },  
+        {
+            "name": "Architecture, Industrial Design Engineering & Manufacturing",
+			"phone": "(909) 274-4803",
+			"email": "",
+			"more_info_url": "http://catalog.mtsac.edu/areas-interest/architecture-engineering-design-technology/",
+			"building": "13",
+			"map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=139056"
+        },  
+        {
+            "name": "Animal Science Fundamentals",
+			"phone": "",
+			"email": "",
+			"more_info_url": "http://www.mtsac.edu/animal/",
+			"building": "",
+			"map_url": ""
+        },
+        {
+            "name": "Animation",
+            "phone": "",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/animation/",
+            "building": "",
+            "map_url": ""
+        },
+        {
+            "name": "Applied Laboratory Science Technology",
+            "phone": "",
+            "email": "",
+            "more_info_url": "http://catalog.mtsac.edu/programs/applied-laboratory-science-technology-alst-degree/",
+            "building": "",
+            "map_url": ""
+        },
+        {
+            "name": "Architectural Design Concentration",
+            "phone": "",
+            "email": "",
+            "more_info_url": "http://catalog.mtsac.edu/programs/architectural-design-concentration-degree/",
+            "building": "",
+            "map_url": ""
+        },
+        {
+            "name": "Architectural Technology Concentration",
+            "phone": "",
+            "email": "",
+            "more_info_url": "http://catalog.mtsac.edu/programs/architectural-technology-concentration-degree/",
+            "building": "",
+            "map_url": ""
+        },
+        {
+            "name": "Art History",
+            "phone": "(909) 274-5200",
+            "email": "",
+            "more_info_url": "http://catalog.mtsac.edu/programs/aa-art-history-transfer/",
+            "building": "13",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134004"
+        },
+        {
+            "name": "Athletic Trainer Aide I",
+            "phone": "(909) 274-4630",
+            "email": "",
+            "more_info_url": "http://catalog.mtsac.edu/programs/athletic-trainer-aide-i/",
+            "building": "45",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134053"
+        },
+        {
+            "name": "Aviation Science",
+            "phone": "(909) 274-5006",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/aeronautics/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        }
+       
     ]
 }

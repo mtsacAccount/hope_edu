@@ -1,0 +1,940 @@
+{
+    "buildings": [
+        {
+            "code": "10",
+            "name": "Founders Hall"
+        },
+        {
+            "code": "11",
+            "name": "Bldg. 11"
+        },
+        {
+            "code": "11A",
+            "name": "Bldg. 11A"
+        },
+        {
+            "code": "12",
+            "name": "Bldg. 12"
+        },
+        {
+            "code": "12A",
+            "name": "Foundation Office"
+        },
+        {
+            "code": "13",
+            "name": "Bldg. 13-Design Technology"
+        },
+        {
+            "code": "16B",
+            "name": "Bldg. 16B"
+        },
+        {
+            "code": "16C",
+            "name": "Bldg. 16C"
+        },
+        {
+            "code": "16D",
+            "name": "Bldg. 16D"
+        },
+        {
+            "code": "17",
+            "name": "Bldg. 17"
+        },
+        {
+            "code": "18",
+            "name": "Bldg. 18"
+        },
+        {
+            "code": "18A",
+            "name": "Bldg. 18A"
+        },
+        {
+            "code": "18B",
+            "name": "Bldg. 18B"
+        },
+        {
+            "code": "18C",
+            "name": "Bldg. 18C"
+        },
+        {
+            "code": "18D",
+            "name": "Bldg. 18D"
+        },
+        {
+            "code": "19A",
+            "name": "Child Development Center South"
+        },
+        {
+            "code": "19B",
+            "name": "Bldg. 19B"
+        },
+        {
+            "code": "19C",
+            "name": "Mountie Grill"
+        },
+        {
+            "code": "1A",
+            "name": "Bldg 1A"
+        },
+        {
+            "code": "1B/C",
+            "name": "Bldg 1B/C"
+        },
+        {
+            "code": "2",
+            "name": "Bldg 2"
+        },
+        {
+            "code": "20",
+            "name": "Bldg. 20"
+        },
+        {
+            "code": "21A",
+            "name": "Bldg. 21A"
+        },
+        {
+            "code": "21B",
+            "name": "Bldg. 21B"
+        },
+        {
+            "code": "21C",
+            "name": "Bldg. 21C"
+        },
+        {
+            "code": "21D",
+            "name": "Bldg. 21D"
+        },
+        {
+            "code": "21E",
+            "name": "Bldg. 21E"
+        },
+        {
+            "code": "21F",
+            "name": "Bldg. 21F"
+        },
+        {
+            "code": "21G",
+            "name": "Bldg. 21G"
+        },
+        {
+            "code": "21H",
+            "name": "Bldg. 21H"
+        },
+        {
+            "code": "21I",
+            "name": "Bldg. 21I"
+        },
+        {
+            "code": "21J",
+            "name": "Bldg. 21J"
+        },
+        {
+            "code": "23",
+            "name": "College Services"
+        },
+        {
+            "code": "23A",
+            "name": "Data Center"
+        },
+        {
+            "code": "26A",
+            "name": "Bldg 26A"
+        },
+        {
+            "code": "26C",
+            "name": "Bldg 26C"
+        },
+        {
+            "code": "26D",
+            "name": "Bldg 26D"
+        },
+        {
+            "code": "27A",
+            "name": "Bldg 27A"
+        },
+        {
+            "code": "27B",
+            "name": "Bldg 27B"
+        },
+        {
+            "code": "27C",
+            "name": "Bldg 27C"
+        },
+        {
+            "code": "27T",
+            "name": "Tennis Courts"
+        },
+        {
+            "code": "28A",
+            "name": "Bldg 28A"
+        },
+        {
+            "code": "28B",
+            "name": "Bldg 28B"
+        },
+        {
+            "code": "29A",
+            "name": "Bldg. 29A"
+        },
+        {
+            "code": "29D",
+            "name": "Bldg. 29D"
+        },
+        {
+            "code": "3",
+            "name": "Bldg 3"
+        },
+        {
+            "code": "30",
+            "name": "Bldg 30"
+        },
+        {
+            "code": "31A",
+            "name": "Bldg 31A"
+        },
+        {
+            "code": "31B",
+            "name": "Bldg 31B"
+        },
+        {
+            "code": "32",
+            "name": "Bldg 32"
+        },
+        {
+            "code": "33",
+            "name": "Bldg 33"
+        },
+        {
+            "code": "35",
+            "name": "Bldg 35"
+        },
+        {
+            "code": "36",
+            "name": "Bldg 36"
+        },
+        {
+            "code": "38A",
+            "name": "Bldg 38A"
+        },
+        {
+            "code": "38B",
+            "name": "Bldg 38B"
+        },
+        {
+            "code": "4",
+            "name": "Administration"
+        },
+        {
+            "code": "40",
+            "name": "Bldg. 40"
+        },
+        {
+            "code": "44",
+            "name": "Bldg. 44"
+        },
+        {
+            "code": "45",
+            "name": "Bldg 45"
+        },
+        {
+            "code": "45B",
+            "name": "Baseball Field"
+        },
+        {
+            "code": "45G",
+            "name": "Golf Field"
+        },
+        {
+            "code": "45S",
+            "name": "Soccer Field"
+        },
+        {
+            "code": "45SB",
+            "name": "Softball Field"
+        },
+        {
+            "code": "46",
+            "name": "Facilities Management"
+        },
+        {
+            "code": "47",
+            "name": "Facilities Management"
+        },
+        {
+            "code": "48",
+            "name": "Receiving / Transportation"
+        },
+        {
+            "code": "5",
+            "name": "Bldg 5"
+        },
+        {
+            "code": "50CC",
+            "name": "Cross Country"
+        },
+        {
+            "code": "50D",
+            "name": "Stadium Press Box"
+        },
+        {
+            "code": "50FF",
+            "name": "Fire Field"
+        },
+        {
+            "code": "50G",
+            "name": "Bldg 50G"
+        },
+        {
+            "code": "50H",
+            "name": "Stadium Concessions"
+        },
+        {
+            "code": "50P",
+            "name": "Football Practice"
+        },
+        {
+            "code": "51",
+            "name": "Athletic Storage"
+        },
+        {
+            "code": "5A",
+            "name": "Bldg 5A"
+        },
+        {
+            "code": "6",
+            "name": "Bldg 6-Library/LTC"
+        },
+        {
+            "code": "60",
+            "name": "Bldg 60"
+        },
+        {
+            "code": "61",
+            "name": "Bldg 61"
+        },
+        {
+            "code": "66",
+            "name": "Bldg 66"
+        },
+        {
+            "code": "67A",
+            "name": "Bldg 67A"
+        },
+        {
+            "code": "67B",
+            "name": "Bldg 67B"
+        },
+        {
+            "code": "69",
+            "name": "Bldg 69"
+        },
+        {
+            "code": "6A",
+            "name": "Information Kiosk"
+        },
+        {
+            "code": "7",
+            "name": "Bldg 7"
+        },
+        {
+            "code": "70",
+            "name": "Bldg 70 Child Development"
+        },
+        {
+            "code": "71",
+            "name": "Bldg 71 Child Development"
+        },
+        {
+            "code": "72",
+            "name": "Bldg 72 Child Development"
+        },
+        {
+            "code": "73",
+            "name": "Bldg 73 Child Development"
+        },
+        {
+            "code": "8",
+            "name": "Campus Inn"
+        },
+        {
+            "code": "80",
+            "name": "Agricultural Sciences"
+        },
+        {
+            "code": "9A",
+            "name": "Bookstore/Auxiliary Services"
+        },
+        {
+            "code": "9B",
+            "name": "Student Services Center"
+        },
+        {
+            "code": "9C",
+            "name": "Student Life Center"
+        },
+        {
+            "code": "9D",
+            "name": "Student Services"
+        },
+        {
+            "code": "9E",
+            "name": "Student Success Center"
+        },
+        {
+            "code": "ABROAD",
+            "name": "Study Abroad"
+        },
+        {
+            "code": "AGSC-B",
+            "name": "Agriculture Mechanics"
+        },
+        {
+            "code": "ALHS",
+            "name": "Alhambra High School"
+        },
+        {
+            "code": "ARBR",
+            "name": "Arbor Glen Care Center"
+        },
+        {
+            "code": "ARC",
+            "name": "American Recovery Center"
+        },
+        {
+            "code": "ARROW",
+            "name": "Arrowhead Regional Medical Ctr"
+        },
+        {
+            "code": "BASSHS",
+            "name": "Bassett High School"
+        },
+        {
+            "code": "BEV",
+            "name": "BEV"
+        },
+        {
+            "code": "BHC",
+            "name": "BHC Alhambra Hospital"
+        },
+        {
+            "code": "BPHS",
+            "name": "Baldwin Park High School"
+        },
+        {
+            "code": "BRACKT",
+            "name": "Brackett Field"
+        },
+        {
+            "code": "BRDG",
+            "name": "Bridgecreek Retirement Center"
+        },
+        {
+            "code": "BROOK",
+            "name": "Brookdale San Dimas"
+        },
+        {
+            "code": "BRTN",
+            "name": "Brighton Gardens"
+        },
+        {
+            "code": "CBCH",
+            "name": "Casa Bonita Convalescent Hosp."
+        },
+        {
+            "code": "CBSSNF",
+            "name": "Clara Baldwin Stocker SNF"
+        },
+        {
+            "code": "CCHCH",
+            "name": "Casa Colina Hospital"
+        },
+        {
+            "code": "CDCN-B",
+            "name": "Child Dev. Center - North B"
+        },
+        {
+            "code": "CHART",
+            "name": "Charter Oak"
+        },
+        {
+            "code": "CHC",
+            "name": "College Hospital Cerritos"
+        },
+        {
+            "code": "CHINO",
+            "name": "Chino Valley Medical Cener"
+        },
+        {
+            "code": "CHLA",
+            "name": "Childrens Hospital Los Angeles"
+        },
+        {
+            "code": "CHS",
+            "name": "Covina High School"
+        },
+        {
+            "code": "CM",
+            "name": "Claremont Manor"
+        },
+        {
+            "code": "CNYN",
+            "name": "Canyon Terrace Apartments"
+        },
+        {
+            "code": "COMPHS",
+            "name": "Canyon Oaks/Mountain Pk HS"
+        },
+        {
+            "code": "COUN",
+            "name": "Country View Retirement Home"
+        },
+        {
+            "code": "COV",
+            "name": "Atria - Covina"
+        },
+        {
+            "code": "COV-AT",
+            "name": "Atria Covina"
+        },
+        {
+            "code": "COVGAR",
+            "name": "Covina Gardens"
+        },
+        {
+            "code": "CROSAS",
+            "name": "Carolyn Rosas Park"
+        },
+        {
+            "code": "CVIFD",
+            "name": "Chino Valley Ind Fire District"
+        },
+        {
+            "code": "DBC",
+            "name": "Diamond Bar Center"
+        },
+        {
+            "code": "DBHS",
+            "name": "Diamond Bar High School"
+        },
+        {
+            "code": "DBL",
+            "name": "Diamond Bar Library"
+        },
+        {
+            "code": "DESGAR",
+            "name": "Descanso Gardens"
+        },
+        {
+            "code": "DRHS",
+            "name": "Diamond Ranch High School"
+        },
+        {
+            "code": "EHS",
+            "name": "Edgewood High School"
+        },
+        {
+            "code": "ESEALS",
+            "name": "Easter Seals"
+        },
+        {
+            "code": "F1",
+            "name": "Horticulture Unit"
+        },
+        {
+            "code": "F1A",
+            "name": "Horticulture Unit A"
+        },
+        {
+            "code": "F2A",
+            "name": "Horticulture Office"
+        },
+        {
+            "code": "F2B",
+            "name": "Farm Storage"
+        },
+        {
+            "code": "F2C",
+            "name": "Landscaping/Irrigation Lab"
+        },
+        {
+            "code": "F3",
+            "name": "Equipment Barn"
+        },
+        {
+            "code": "F4",
+            "name": "Swine Barn"
+        },
+        {
+            "code": "F5",
+            "name": "Vivarium"
+        },
+        {
+            "code": "F7A",
+            "name": "Equipment Technology Unit"
+        },
+        {
+            "code": "F7B",
+            "name": "Ag. Mechanics"
+        },
+        {
+            "code": "F8",
+            "name": "Horse Unit"
+        },
+        {
+            "code": "F9",
+            "name": "Livestock Pavillion"
+        },
+        {
+            "code": "FAHS",
+            "name": "Fremont Academy High School"
+        },
+        {
+            "code": "FIELD",
+            "name": "Field Experience"
+        },
+        {
+            "code": "FNR",
+            "name": "Foothill Nursing/Rehab Center"
+        },
+        {
+            "code": "FOOT",
+            "name": "Foothill Presbyterian Hospital"
+        },
+        {
+            "code": "GANHS",
+            "name": "Ganesha High School"
+        },
+        {
+            "code": "GARHS",
+            "name": "Garey High School"
+        },
+        {
+            "code": "GELMCH",
+            "name": "Greater El Monte Comm. Hosp."
+        },
+        {
+            "code": "GMC",
+            "name": "Garfield Medical Center"
+        },
+        {
+            "code": "GPP",
+            "name": "Ganesha Park Pool"
+        },
+        {
+            "code": "HERI",
+            "name": "Heritgage Park Community Ctr"
+        },
+        {
+            "code": "HI-LEA",
+            "name": "Hi Lea Mobile Home Park"
+        },
+        {
+            "code": "HILL",
+            "name": "Hillcrest Aquatic & Fitness Ct"
+        },
+        {
+            "code": "HOSP",
+            "name": "Hospital"
+        },
+        {
+            "code": "HUNT",
+            "name": "Huntington Memorial Hospital"
+        },
+        {
+            "code": "ICC",
+            "name": "Inter-Community Campus"
+        },
+        {
+            "code": "ICMC",
+            "name": "INACTIVE"
+        },
+        {
+            "code": "ICWC",
+            "name": "Infinity Care of West Covina"
+        },
+        {
+            "code": "IDHL",
+            "name": "Village at Indian Hill"
+        },
+        {
+            "code": "INGL",
+            "name": "Ingleside Hospital"
+        },
+        {
+            "code": "IRC",
+            "name": "Irwindale Recreation Center"
+        },
+        {
+            "code": "IRWN",
+            "name": "Irwindale Senior Citizens Ctr"
+        },
+        {
+            "code": "JOS",
+            "name": "Joslyn Senior Citizens Center"
+        },
+        {
+            "code": "KBP",
+            "name": "Kaiser Baldwin Park"
+        },
+        {
+            "code": "LA-ARB",
+            "name": "Los Angeles Arboretum"
+        },
+        {
+            "code": "LACO",
+            "name": "Los Angeles Cty Fire Training"
+        },
+        {
+            "code": "LADERA",
+            "name": "La Dera Serra Park"
+        },
+        {
+            "code": "LAHS",
+            "name": "Los Altos High School"
+        },
+        {
+            "code": "LASENC",
+            "name": "Las Encinas Hospital"
+        },
+        {
+            "code": "LAWORK",
+            "name": "LA Works Resource Center"
+        },
+        {
+            "code": "LPHS",
+            "name": "La Puente High School"
+        },
+        {
+            "code": "LV",
+            "name": "La Verne Community Center"
+        },
+        {
+            "code": "MAS",
+            "name": "Masonic Home"
+        },
+        {
+            "code": "MIRADA",
+            "name": "Mirada Hills Rehabilitation"
+        },
+        {
+            "code": "MKHS",
+            "name": "Mark Keppel High School"
+        },
+        {
+            "code": "MSAG",
+            "name": "Mt. San Antonio Gardens"
+        },
+        {
+            "code": "NHS",
+            "name": "Nogales High School"
+        },
+        {
+            "code": "NVHS",
+            "name": "Northview High School"
+        },
+        {
+            "code": "OAKTR",
+            "name": "Oak Tree Lodge"
+        },
+        {
+            "code": "OCAM",
+            "name": "Off Campus"
+        },
+        {
+            "code": "ONLINE",
+            "name": "Online Class"
+        },
+        {
+            "code": "ONTA",
+            "name": "Ontario Fire Training Center"
+        },
+        {
+            "code": "PAHS",
+            "name": "Palomares Academy High School"
+        },
+        {
+            "code": "PATH",
+            "name": "Pathfinder Park Comm. Ctr"
+        },
+        {
+            "code": "PHS",
+            "name": "Pomona High School"
+        },
+        {
+            "code": "PIH",
+            "name": "Presbyterian Intercomm Hosp."
+        },
+        {
+            "code": "PILPLC",
+            "name": "Pilgrim Place Health Svcs Ctr"
+        },
+        {
+            "code": "PKSIDE",
+            "name": "Parkside West Medical Center"
+        },
+        {
+            "code": "PKVSTA",
+            "name": "ParkVista at Morningside"
+        },
+        {
+            "code": "PLUM",
+            "name": "Stanley Plummer Building"
+        },
+        {
+            "code": "POOL",
+            "name": "Pool"
+        },
+        {
+            "code": "PROTYP",
+            "name": "Prototypes Women's Center"
+        },
+        {
+            "code": "PSC",
+            "name": "Palomares Senior Center"
+        },
+        {
+            "code": "PVHMC",
+            "name": "Pomona Valley Hospital Med Ctr"
+        },
+        {
+            "code": "QOVH",
+            "name": "Queen of the Valley Hospital"
+        },
+        {
+            "code": "RAN",
+            "name": "Atria - Rancho Park Adult Cmty"
+        },
+        {
+            "code": "RGNT",
+            "name": "Regent Senior Living"
+        },
+        {
+            "code": "RIVCO",
+            "name": "Riverside County Regional Park"
+        },
+        {
+            "code": "ROW",
+            "name": "Rowland Convalescent Hospital"
+        },
+        {
+            "code": "SARH",
+            "name": "San Antonio Regional Hospital"
+        },
+        {
+            "code": "SBDC",
+            "name": "Small Business Dev. Ctr."
+        },
+        {
+            "code": "SD",
+            "name": "San Dimas Senior/Community Ctr"
+        },
+        {
+            "code": "SDHS",
+            "name": "San Dimas High School"
+        },
+        {
+            "code": "SDMS",
+            "name": "San Dimas Retirement Center"
+        },
+        {
+            "code": "SDSR",
+            "name": "San Dimas Swim/Racquet Club"
+        },
+        {
+            "code": "SGHS",
+            "name": "San Gabriel High School"
+        },
+        {
+            "code": "SGVTC",
+            "name": "San Gabriel Vall. Train. Cent."
+        },
+        {
+            "code": "SHHS",
+            "name": "South Hills High School"
+        },
+        {
+            "code": "SILVAL",
+            "name": "Silverado Sr. Living-Alhambra"
+        },
+        {
+            "code": "SILVER",
+            "name": "Silverado Senior Living-Azusa"
+        },
+        {
+            "code": "SOP",
+            "name": "Shadow Oak Park"
+        },
+        {
+            "code": "STDIUM",
+            "name": "Stadium"
+        },
+        {
+            "code": "STJUDE",
+            "name": "St. Jude Medical Center"
+        },
+        {
+            "code": "STSEAT",
+            "name": "Stadium Bleachers"
+        },
+        {
+            "code": "SVHS",
+            "name": "Sierra Vista High School"
+        },
+        {
+            "code": "VAHS",
+            "name": "Village Academy High School"
+        },
+        {
+            "code": "VHLV",
+            "name": "Veterans Hall, La Verne"
+        },
+        {
+            "code": "VILA",
+            "name": "Villa Colima"
+        },
+        {
+            "code": "WALT",
+            "name": "Walnut Senior Center"
+        },
+        {
+            "code": "WCHS",
+            "name": "West Covina High School"
+        },
+        {
+            "code": "WCSCC",
+            "name": "West Covina Senior Citizens"
+        },
+        {
+            "code": "WHIT",
+            "name": "Whittier Hospital"
+        },
+        {
+            "code": "WHS",
+            "name": "Walnut High School"
+        },
+        {
+            "code": "WILHS",
+            "name": "Wilson High School"
+        },
+        {
+            "code": "WKHS",
+            "name": "Workman High School"
+        },
+        {
+            "code": "WOOD",
+            "name": "Woods Memorial/Hillcrest Homes"
+        },
+        {
+            "code": "WPCC",
+            "name": "Westmost Park Community Center"
+        },
+        {
+            "code": "WPK",
+            "name": "Washington Park"
+        },
+        {
+            "code": "WVBAP",
+            "name": "Walnut Valley, First Baptist"
+        }
+    ]
+}

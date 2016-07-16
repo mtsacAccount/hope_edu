@@ -1,0 +1,761 @@
+{ 
+    "buildings": [
+                    {
+                        "code": "1A",
+                        "name": "Art Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133984"
+                    },
+                  
+                    {
+                        "code": "1B/C",
+                        "name": "Art Center/Gallery",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133985"
+                    },
+                  
+                     {
+                        "code": "2",
+                        "name": "Performing Arts Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133986"
+                    },
+                      {
+                        "code": "3",
+                        "name": "Gymnasium",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133987"
+                    },
+             
+                    {
+                        "code": "4",
+                        "name": "Administration",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133988"
+                    },
+                    {
+                        "code": "6A",
+                        "name": "Information Kiosk",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=136820"
+                        
+                    },
+                    {
+                        "code": "6",
+                        "name": "Library",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133989"
+                    },
+                    {
+                        "code": "6",
+                        "name": "Learning Technology Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133989"
+                    },
+                   
+                    {
+                        "code": "7",
+                        "name": "Science South",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133991"
+                    },
+                    {
+                        "code": "8",
+                        "name": "Mountie Cafe",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133992"
+                    },
+                    {
+                        "code": "9A",
+                        "name": "Sac Book Rac (Bookstore) ",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133993"
+                    },
+                    
+                    {
+                        "code": "9B",
+                        "name": "Student Services Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133994"
+                    },
+                    {
+                        "code": "9C",
+                        "name": "Student Life Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133995"
+                    },
+                    {
+                        "code": "9D",
+                        "name": "Student Services Annex",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133996"
+                    },
+                    {
+                        "code": "9E",
+                        "name": "Student Success Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133997"
+                    },
+                    {
+                        "code": "10",
+                        "name": "Founders Hall",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133998"
+                    },
+                    {
+                        "code": "11",
+                        "name": "Science North",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=133999"
+                    },
+                    {
+                        "code": "11A",
+                        "name": "Administrative Services",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134000"
+                    },
+                    {
+                        "code": "12",
+                        "name": "Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134001"
+                    },
+                    {
+                        "code": "12A",
+                        "name": "Foundation Office",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134002"
+                    },
+                    {
+                        "code": "12B",
+                        "name": "Garage",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134003"
+                    },
+                    {
+                        "code": "13",
+                        "name": "Design Technology Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134004"
+                    },
+                    {
+                        "code": "16A",
+                        "name": "Express Stop",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134005"
+                    },
+                    {
+                        "code": "16B",
+                        "name": "ARISE",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134006"
+                    },
+                    {
+                        "code": "16C",
+                        "name": "Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134007"
+                    },
+                    {
+                        "code": "16D",
+                        "name": "Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134008"
+                    },
+                    {
+                        "code": "17",
+                        "name": "Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134009"
+                    },
+                    {
+                        "code": "18",
+                        "name": "Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134010"
+                    },
+                    {
+                        "code": "18A",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134011"
+                    },
+                    {
+                        "code": "18B",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134012"
+                    },
+                    {
+                        "code": "18C",
+                        "name": "Technical Education Resource Center (TERC) ",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134013"
+                    },
+                    {
+                        "code": "18D",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134014"
+                    },
+                    {
+                        "code": "19A",
+                        "name": "Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134015"
+                    },
+                    {
+                        "code": "19B",
+                        "name": "Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134016"
+                    },
+                    {
+                        "code": "19C",
+                        "name": "Mountie Grill",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134017"
+                    },
+                    {
+                        "code": "20",
+                        "name": "Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134018"
+                    },
+                    {
+                        "code": "21A",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134019"
+                    },
+                    {
+                        "code": "21B",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134020"
+                    },
+                    {
+                        "code": "21C",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134021"
+                    },
+                    {
+                        "code": "21D",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134022"
+                    },
+                    {
+                        "code": "21E",
+                        "name": "Restroom Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134023"
+                    },
+                    {
+                        "code": "21F",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134024"
+                    },
+                    {
+                        "code": "21G",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134025"
+                    },
+                    {
+                        "code": "21H",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134026"
+                    },
+                    {
+                        "code": "21I",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134027"
+                    },
+                    {
+                        "code": "21J",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134028"
+                    },
+                    {
+                        "code": "23",
+                        "name": "College Services",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134029"
+                    },
+                    {
+                        "code": "23A",
+                        "name": "Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134030"
+                    },
+                    
+                    {
+                        "code": "26A",
+                        "name": "Humanities/Social Sciences North",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134031"
+                    },
+                    {
+                        "code": "26B",
+                        "name": "Humanities/Social Sciences East",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134032"
+                    },
+                    {
+                        "code": "26C",
+                        "name": "Randall Planetarium",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134033"
+                    },
+                    {
+                        "code": "26D",
+                        "name": "Humanities/Social Sciences South",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134034"
+                    },
+                    {
+                        "code": "27A",
+                        "name": "Exercise Science/Wellness Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134035"
+                    },
+                    {
+                        "code": "27B",
+                        "name": "Pool Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134036"
+                    },
+                    {
+                        "code": "27C",
+                        "name": "P.E. Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134037"
+                    },
+                    {
+                        "code": "27P",
+                        "name": "Mills Aquatic Facility",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134485"
+                    },
+                    {
+                        "code": "28A-B",
+                        "name": "Technology Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134038"
+                    },
+                    {
+                        "code": "29",
+                        "name": "Central Plant",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134039"
+                    },
+                    {
+                        "code": "29A",
+                        "name": "Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134040"
+                    },
+                    {
+                        "code": "29B",
+                        "name": "Central Plant Office",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134041"
+                    },
+                    {
+                        "code": "30",
+                        "name": "Adult Basic Education Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134042"
+                    },
+                    {
+                        "code": "31A",
+                        "name": "Continuing Education Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134043"
+                    },
+                    {
+                        "code": "31B",
+                        "name": "Continuing Education Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134044"
+                    },
+                    {
+                        "code": "32",
+                        "name": "Continuing Education Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134045"
+                    },
+                    {
+                        "code": "34",
+                        "name": "Modular Restroom",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134046"
+                    },
+                    {
+                        "code": "35",
+                        "name": "Continuing Education Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134047"
+                    },
+                    {
+                        "code": "36",
+                        "name": "Continuing Education Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134048"
+                    },
+                    {
+                        "code": "38A",
+                        "name": "Continuing Education Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134049"
+                    },
+                    {
+                        "code": "38B",
+                        "name": "Continuing Education Modular",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134050"
+                    },
+                    {
+                        "code": "40",
+                        "name": "Building",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134051"
+                    },
+                    {
+                        "code": "43",
+                        "name": "Tilden Coil Constructors/Vinewood Company",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134052"
+                    },
+                    {
+                        "code": "45",
+                        "name": "Kinesiology/Athletics/Dance",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134053"
+                    },
+                  
+                    {
+                        "code": "45B",
+                        "name": "Mazmanian Field",
+                        "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=145550"
+                    },
+                       {
+                        "code": "45S",
+                        "name": "Soccer Fields",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=145549"
+                    },
+                    {
+                        "code": "45SB",
+                        "name": "Softball Field",
+                        "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=145551"
+                    },
+                    {
+                        "code": "46",
+                        "name": "Emergency Operations Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134054"
+                    },
+                    {
+                        "code": "47",
+                        "name": "Facilities Planning & Management",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134055"
+                    },
+                    {
+                        "code": "48",
+                        "name": "Receiving/Transportation",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134056"
+                    },
+                    {
+                        "code": "50A",
+                        "name": "Stadium Ticket Booth",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134057"
+                    },
+                    {
+                        "code": "50B",
+                        "name": "Stadium Restrooms NW",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134058"
+                    },
+                    {
+                        "code": "50C",
+                        "name": "Stadium Restrooms NE",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134059"
+                    },
+                    {
+                        "code": "50D",
+                        "name": "Stadium Restrooms SW",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134060"
+                    },
+                    {
+                        "code": "50E",
+                        "name": "Stadium Restrooms SE",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134061"
+                    },
+                    {
+                        "code": "50F",
+                        "name": "Stadium Press Box",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134062"
+                    },
+                    {
+                        "code": "50G",
+                        "name": "P.E. Center Field House",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134063"
+                    },
+                    {
+                        "code": "50H",
+                        "name": "Stadium Concessions",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134064"
+                    },
+    
+                    {
+                        "code": "50TF",
+                        "name": "Hilmer Lodge Stadium",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134065"
+                    },
+                    {
+                        "code": "51",
+                        "name": "Athletic Storage",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134066"
+                    },
+                    {
+                        "code": "60",
+                        "name": "Science Laboratories",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134067"
+                    },
+                    {
+                        "code": "60",
+                        "name": "Exploratorium and Meeks Collection",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134487"
+                    },
+                    {
+                        "code": "61",
+                        "name": "Math and Science",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134068"
+                    },
+                    {
+                        "code": "66",
+                        "name": "Language Center",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134069"
+                    },
+                    {
+                        "code": "67A",
+                        "name": "Health Careers Center A",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134070"
+                    },
+                    {
+                        "code": "67B",
+                        "name": "Health Careers Center B",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134071"
+                    },
+                    {
+                        "code": "69",
+                        "name": "Welding/Air Conditioning",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134072"
+                    },
+                    {
+                        "code": "70",
+                        "name": "Child Development Complex",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134073"
+                    },
+                    {
+                        "code": "71",
+                        "name": "Child Development Complex",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134074"
+                    },
+                    {
+                        "code": "72",
+                        "name": "Child Development Complex",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134075"
+                    },
+                    {
+                        "code": "73",
+                        "name": "Child Development Complex",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134076"
+                    },
+                    {
+                        "code": "80",
+                        "name": "Agricultural Science",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134077"
+                    },
+                    {
+                        "code": "F1",
+                        "name": "Horticulture Unit",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134078"
+                    },
+                    {
+                        "code": "F1A",
+                        "name": "Sherman Park Picnic Area/Restrooms",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134079"
+                    },
+                    {
+                        "code": "F2A",
+                        "name": "Farm Offices",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134080"
+                    },
+                    {
+                        "code": "F2B",
+                        "name": "Horticulture Storage",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134081"
+                    },
+                    {
+                        "code": "F2C",
+                        "name": "Irrigation + Landscape Construction",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134082"
+                    },
+                    {
+                        "code": "F3",
+                        "name": "Equipment Barn",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134083"
+                    },
+                    {
+                        "code": "F3A",
+                        "name": "Old Dairy Unit",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134084"
+                    },
+                    {
+                        "code": "F4A",
+                        "name": "Swine Market Pens",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134085"
+                    },
+                    {
+                        "code": "F4B",
+                        "name": "Swine Farrowing House",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134086"
+                    },
+                    {
+                        "code": "F5A",
+                        "name": "Vivarium",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134087"
+                    },
+                    {
+                        "code": "F5B",
+                        "name": "Small Animal Care Unit",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134088"
+                    },
+                    {
+                        "code": "F6A",
+                        "name": "Equine Breeding Barn",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134089"
+                    },
+                    {
+                        "code": "F6B",
+                        "name": "Equine Mare Motel",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134090"
+                    },
+                    {
+                        "code": "F6C",
+                        "name": "Equine Hay Barn",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134091"
+                    },
+                    {
+                        "code": "F7",
+                        "name": "Equipment Technology",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134092"
+                    },
+                    {
+                        "code": "F8",
+                        "name": "Hay Barn",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134093"
+                    },
+                    {
+                        "code": "F9",
+                        "name": "Livestock Pavilion (Beef + Sheep) ",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134094"
+                    },
+                    {
+                        "code": "F10",
+                        "name": "48th District Agricultural Association",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134095"
+                    },
+                    {
+                        "code": "G1",
+                        "name": "Greenhouse",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134096"
+                    },
+                    {
+                        "code": "G2",
+                        "name": "Greenhouse",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134097"
+                    },
+                    {
+                        "code": "G3",
+                        "name": "Greenhouse",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134098"
+                    },
+                    {
+                        "code": "G4",
+                        "name": "Greenhouse",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134099"
+                    },
+                    {
+                        "code": "G5",
+                        "name": "Greenhouse",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134100"
+                    },
+                
+                    {
+                        "code": "",
+                        "name": "Assembly Area 1",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139044"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 2 (Sherman Park)",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139045"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 3",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139046"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 4",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139047"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 5",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139048"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 6",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139049"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 7",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139050"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 8",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139051"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 9 (Under Construction)",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139052"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 10",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139053"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 11",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139054"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 12",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139055"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 13",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139056"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 14",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139057"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 15",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139058"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 16",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139059"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 17",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139060"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 18",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139061"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 19",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139062"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 20",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139063"
+                    },
+                    {
+                        "code": "",
+                        "name": "Assembly Area 21 (The Meadows)",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=139064"
+                    },
+                   
+                    {
+                        "code": "",
+                        "name": "Art Gallery",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134486"
+                    },
+                    {
+                        "code": "",
+                        "name": "Brackett Field",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134101"
+                    },
+                    {
+                        "code": "",
+                        "name": "Farm",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134488"
+                    },
+                    {
+                        "code": "",
+                        "name": "Observatory",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134490"
+                    },
+                    {
+                        "code": "",
+                        "name": "Wildlife Sanctuary",
+                        "map_url": "http://myatlascms.com/map/?id=811&mrkIid=134493"
+                    }
+        ]
+
+}

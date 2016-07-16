@@ -6,7 +6,7 @@
             "email": "",
             "more_info_url": "http://www.mtsac.edu/aces",
             "building": "9E",
-            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133997#!m/133997"
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133997#!m/133997/"
             },
             {
             "name": "African American Student Program Inspiring Responsibility for Education - (ASPIRE)",
@@ -14,13 +14,13 @@
             "email": "",
             "more_info_url": "http://www.mtsac.edu/aspire",
             "building": "9D",
-            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133996"
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133996/"
             },
              {
             "name": "Asian American and Pacific Islander Student Support Service - (ARISE)",
             "phone": "(909) 274-6622",
             "email": "arise@mtsac.edu",
-            "more_info_url": "http://www.mtsac.edu/arise",
+            "more_info_url": "http://www.mtsac.edu/arise/",
             "building": "16B",
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134006"
             },
@@ -28,7 +28,7 @@
             "name": "Bridge",
             "phone": "(909) 274-5392",
             "email": "",
-            "more_info_url": "http://www.mtsac.edu/bridge",
+            "more_info_url": "http://www.mtsac.edu/bridge/",
             "building": "9E",
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=133997"
             },
