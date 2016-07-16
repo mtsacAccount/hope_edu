@@ -94,7 +94,7 @@ $('#search_field').on('keyup', function(e) {
 });
 
 $("body").on("click", ".closed a", function(e) {
-  e.preventDefault();
+   e.preventDefault();
   $(this)
     .parent()
     .parent()
@@ -116,6 +116,8 @@ $("body").on("click", ".closed a", function(e) {
     .dequeue()
     .clearQueue();
 });
+
+
 
 $("body").on("click", ".open a", function(e) {
   e.preventDefault();
