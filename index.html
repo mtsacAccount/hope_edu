@@ -24,12 +24,12 @@
   
   
           <div class="sectionContainer closed" ng-repeat='program in programs | filter:searchText'>
-            <p><a href="#" class='dept-head'>{{ :: program.name }}</a></p>
+            <p><a href="" class='dept-head'>{{ :: program.name }}</a></p>
             <ul class="hiddenSub">
               <li ng-if="program.email">{{ :: program.email }}</li>
               <li ng-if="program.building">Building {{ :: program.building }}</li>
               <li ng-if="program.phone">Phone: {{ :: program.phone }}</li>
-              <li><a ng-href="{{program.more_info_url}}">More Info</a></li>
+              <li><a ng-href="{{program.more_info_url}}" target="_blank">More Info</a></li>
             </ul>
           </div>
         </div>
@@ -41,7 +41,7 @@
         <div class="inner">
           <h4>Offices &amp; Administration Services</h4>
           <div class="sectionContainer closed" ng-repeat='dept in offices_services | filter:searchText'>
-            <p><a href="#" class='dept-head'>{{ :: dept.name}}</a></p>
+            <p><a href="" class='dept-head'>{{ :: dept.name}}</a></p>
             <ul class="hiddenSub">
               <li>Phone: {{ :: dept.phone}}</li>
               <li ng-if="dept.email">Email: {{ :: dept.email}}</li>
@@ -57,12 +57,12 @@
           <h4>Buildings &amp; Facilities</h4>
   
           <div class="sectionContainer closed" ng-repeat='building in buildings_facilities | filter:searchText'>
-            <p><a href="#" class='dept-head' ng-if="building.code">{{ building.code + ' - ' + building.name }}</a></p>
-            <p><a href="#" class='dept-head' ng-if="!building.code">{{ building.name }}</a></p>
+            <p><a href="" class='dept-head' ng-if="building.code">{{ building.code + ' - ' + building.name }}</a></p>
+            <p><a href="" class='dept-head' ng-if="!building.code">{{ building.name }}</a></p>
             <ul class='hiddenSub'>
               <li class="itemHeading">Building {{ building.code }}</li>
               <li>
-                <a href="#" ><img ng-src="http://codeovermatter.com/hope-edu/images/maps/map3.jpg" /></a>
+                <a href="" ><img ng-src="http://codeovermatter.com/hope-edu/images/maps/map3.jpg" /></a>
                 <a class="viewFullMap" ng-href="{{ building.map_url }}" target='_blank'>View Full Map</a>
               </li>
              
@@ -84,7 +84,7 @@
           
           <div class="sectionContainer closed" ng-repeat='person in department_list[data.selected_dept].people | filter: searchText'>
             <p>
-              <a href="#" class='dept-head'>{{ person.fname + ' ' + person.lname }}</a>
+              <a href="" class='dept-head'>{{ person.fname + ' ' + person.lname }}</a>
             </p>
              <ul class="hiddenSub">
               <li>{{department_list[data.selected_dept].dept_name}}</li>
