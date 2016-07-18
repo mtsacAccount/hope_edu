@@ -26,8 +26,8 @@
           <div class="sectionContainer closed" ng-repeat='program in programs | filter:searchText'>
             <p><a href="" class='dept-head'>{{ :: program.name }}</a></p>
             <ul class="hiddenSub">
-              <li ng-if="program.email">{{ :: program.email }}</li>
-              <li ng-if="program.building">Building {{ :: program.building }}</li>
+              <li ng-if="program.email">Email: {{ :: program.email }}</li>
+              <li ng-if="program.building">Building: {{ :: program.building }}</li>
               <li ng-if="program.phone">Phone: {{ :: program.phone }}</li>
               <li><a ng-href="{{program.more_info_url}}" target="_blank">More Info</a></li>
             </ul>
@@ -63,7 +63,7 @@
               <li class="itemHeading">Building {{ building.code }}</li>
               <li>
                 <a ng-href="{{ building.map_url }}" target='_blank'><img ng-src="http://codeovermatter.com/hope-edu/images/maps/map3.jpg" /></a>
-                <a class="viewFullMap" ng-href="{{ building.map_url }}" target='_blank'>View Full Map</a>
+                <a class="viewFullMap" ng-href="{{ building.map_url }}" target='_blank'>View on Map</a>
               </li>
              
             </ul>

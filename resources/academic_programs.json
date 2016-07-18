@@ -154,7 +154,305 @@
             "more_info_url": "http://www.mtsac.edu/aeronautics/",
             "building": "28A-B",
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+        {
+            "name": "Building Automation",
+            "phone": "",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/buildingautomation/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+        {
+            "name": "Business Emphasis, AA Liberal Arts and Sciences",
+            "phone": "(909) 274-4600",
+            "email": "",
+            "more_info_url": "http://catalog.mtsac.edu/programs/aa-liberal-arts-sciences-emphasis-business/",
+            "building": "17-15",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
+        },
+        {
+            "name": "Business: Human Resource Management",
+            "phone": "(909) 274-4600",
+            "email": "",
+            "more_info_url": "http://mtsac.edu/management/Degree.html",
+            "building": "17-15",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
+        },
+        {
+            "name": "Business: Management",
+            "phone": "(909) 274-4600",
+            "email": "",
+            "more_info_url": "http://mtsac.edu/management/Degree.html",
+            "building": "17-15",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
+        },
+        {
+            "name": "Business: International Business",
+            "phone": "(909) 274-4600",
+            "email": "",
+            "more_info_url": "http://mtsac.edu/management/Degree.html",
+            "building": "17-15",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
+        },
+        {
+            "name": "Business: Retail Management",
+            "phone": "(909) 274-4600",
+            "email": "",
+            "more_info_url": "http://mtsac.edu/management/Degree.html",
+            "building": "17-15",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
+        },
+        {
+            "name": "Business: Small Business Management",
+            "phone": "(909) 274-4600",
+            "email": "",
+            "more_info_url": "http://mtsac.edu/management/Degree.html",
+            "building": "17-15",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
+        },
+        {
+            "name": "Child Development",
+            "phone": "(909) 274-4920",
+            "email": "",
+            "more_info_url": "http://www.mtsac.edu/cdc/",
+            "building": "70",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134073"
+        },
+        {
+            "name": "Children's Program: Administration",
+            "phone": "(909) 274-4920",
+            "email": "",
+            "more_info_url": "http://catalog.mtsac.edu/programs/childrens-program-certificate-administration/",
+            "building": "70",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134073"
+        },
+        {
+            "name": "Children's Program: General",
+            "phone": "(909) 274-4920",
+            "email": "",
+            "more_info_url": "http://catalog.mtsac.edu/programs/childrens-program-certificate-general-level-i/",
+            "building": "70",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134073"
+        },
+        {
+            "name": "Children's Program: Teaching",
+            "phone": "(909) 274-4920",
+            "email": "",
+            "more_info_url": "http://catalog.mtsac.edu/programs/childrens-program-certificate-teaching/",
+            "building": "70",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134073"
+        },
+        {
+            "name": "CIS Professional Certificate in C++ Programming",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-in-c-programming/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        {
+            "name": "CIS Professional Certificate in Excel and Access",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-in-excel-access/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        {
+            "name": "CIS Professional Certificate in Java Programming",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-java-programming/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        {
+            "name": "CIS Professional Certificate in Linux",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-linux/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        {
+            "name": "CIS Professional Certificate in Networking",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-networking/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        {
+            "name": "CIS Professional Certificate in Network Security",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-network-security/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        {
+            "name": "CIS Professional Certificate in Object-Oriented Design & Programming",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-object-oriented-design-programming/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        
+        {
+            "name": "CIS Professional Certificate in SQL",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-sql/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"  
+        },
+        {
+            "name": "CIS Professional Certificate in Telecommunications",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-telecommunications/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"  
+        },
+        {
+            "name": "CIS Professional Certificate in Visual Basic Programming",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-visual-basic-programming/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"  
+        },
+        {
+            "name": "CIS Professional Certificate in Web Programming",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-web-programming/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"  
+        },
+        {
+            "name": "CIS Professional Certificate in Windows Operating System Administration",
+            "phone": "(909) 274-4943",
+            "email": "bandrews@mtsac.edu",
+            "more_info_url": "http://catalog.mtsac.edu/programs/cis-professional-certificate-windows-operating-system-administration/",
+            "building": "18",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"  
+        },
+        {
+            "name": "Coaching",
+            "phone": "",
+            "email": "",
+            "more_info_url": "http://catalog.mtsac.edu/programs/coaching-certificate/",
+            "building": "45",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134053"
+        },
+        {
+          "name": "Commercial Flight, AS",
+          "phone": "",
+          "email": "",
+          "more_info_url": "http://catalog.mtsac.edu/programs/commercial-flight/",
+          "building": "28A-B",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+        {
+          "name": "Communication Emphasis, AA Liberal Arts and Sciences",
+          "phone": "",
+          "email": "",
+          "more_info_url": "http://catalog.mtsac.edu/programs/aa-liberal-arts-science-emphasis-communications/",
+          "building": "",
+          "map_url": ""
+        },
+        {
+          "name": "Communication Studies, AA-T",
+          "phone": "",
+          "email": "",
+          "more_info_url": "http://catalog.mtsac.edu/programs/aa-communication-studies-transfer/",
+          "building": "26A",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134031"
+        },
+        {
+          "name": "Computed Tomography",
+          "phone": "",
+          "email": "",
+          "more_info_url": "http://catalog.mtsac.edu/programs/computed-tomography-certificate/",
+          "building": "28A-B",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+        {
+          "name": "Computer and Networking Technology, AS",
+          "phone": "(909) 274-4943",
+          "email": "bandrews@mtsac.edu",
+          "more_info_url": "http://catalog.mtsac.edu/programs/computer-networking-technology/",
+          "building": "18",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        {
+          "name": "Computer Database Management Systems, AS",
+          "phone": "(909) 274-4943",
+          "email": "bandrews@mtsac.edu",
+          "more_info_url": "http://catalog.mtsac.edu/programs/computer-database-management-systems/",
+          "building": "18",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        {
+          "name": "Computer Network Administration and Security Management, AS",
+          "phone": "(909) 274-4943",
+          "email": "bandrews@mtsac.edu",
+          "more_info_url": "http://catalog.mtsac.edu/programs/computer-network-administration-security-management/",
+          "building": "18",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        {
+          "name": "Computer Programming, AS",
+          "phone": "(909) 274-4943",
+          "email": "bandrews@mtsac.edu",
+          "more_info_url": "http://catalog.mtsac.edu/programs/computer-programming/",
+          "building": "18",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134010"
+        },
+        {
+          "name": "Computer Systems Technology",
+          "phone": "",
+          "email": "",
+          "more_info_url": "http://catalog.mtsac.edu/programs/computer-systems-technology-certificate/",
+          "building": "28A-B",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+        {
+          "name": "Construction Inspection",
+          "phone": "",
+          "email": "",
+          "more_info_url": "http://catalog.mtsac.edu/programs/construction-inspection-certificate/",
+          "building": "28A-B",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+        {
+          "name": "Construction Inspection, AS",
+          "phone": "",
+          "email": "",
+          "more_info_url": "http://catalog.mtsac.edu/programs/construction-inspection/",
+          "building": "28A-B",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+        {
+          "name": "Consumer Relations",
+          "phone": "",
+          "email": "",
+          "more_info_url": "http://catalog.mtsac.edu/programs/consumer-relations-certificate/",
+          "building": "17",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
+        },
+        {
+          "name": "Culinary Arts",
+          "phone": "",
+          "email": "",
+          "more_info_url": "http://catalog.mtsac.edu/programs/culinary-arts-certificate/",
+          "building": "17",
+          "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
         }
+
        
     ]
 }
