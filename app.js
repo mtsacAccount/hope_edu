@@ -2,17 +2,7 @@ var app = angular.module('app', []);
 
 app.controller('MainCtrl', ["$scope", "$http", function($scope, $http) {
   
-  $http.get('resources/offices_services.json')
-  
-  .success(function(data, status, headers, config) {
-    $scope.offices_services = data.offices;
-  })
-  .error(function(data, status, headers, config) {
-    console.log(status);
-  });
-  
   $http.get('resources/academic_programs.json')
-  
   .success(function(data, status, headers, config) {
     $scope.programs = data.academic_programs;
   })
@@ -20,8 +10,16 @@ app.controller('MainCtrl', ["$scope", "$http", function($scope, $http) {
     console.log(status);
   });
   
-  $http.get('resources/buildings_3.json')
   
+  $http.get('resources/offices_services.json')
+  .success(function(data, status, headers, config) {
+    $scope.offices_services = data.offices;
+  })
+  .error(function(data, status, headers, config) {
+    console.log(status);
+  });
+  
+  $http.get('resources/buildings_3.json')
   .success(function(data, status, headers, config) {
     $scope.buildings_facilities = data.buildings;
   })
@@ -29,6 +27,17 @@ app.controller('MainCtrl', ["$scope", "$http", function($scope, $http) {
     console.log(status);
   });
   
+  
+ $http.get('resources/column_4_data.json')
+  .success(function(data, status, headers, config) {
+    $scope.departments = data;
+  })
+  .error(function(data, status, headers, config) {
+    console.log(status);
+  });
+  
+  
+
 }]);
 
 

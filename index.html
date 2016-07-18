@@ -75,25 +75,23 @@
         <div class="inner">
           <h4>People</h4>
           <select name='selected_dept' ng-model='data.selected_dept'>
-            <option ng-selected='true'>SELECT A DEPARTMENT</option>
-            <option ng-repeat='dept in department_list | filter:searchText' value="{{dept.id}}">{{dept.dept_name}}</option>
+            <option selected>SELECT A DEPARTMENT</option>
+            <option ng-repeat='(dept, list) in departments' value="{{dept}}">{{dept}}</option>
           </select>
           
           
   <!--   Each Person's information  -->
           
-          <div class="sectionContainer closed" ng-repeat='person in department_list[data.selected_dept].people | filter: searchText'>
+          <div class="sectionContainer closed" ng-repeat='person in departments[data.selected_dept] | filter: searchText'>
             <p>
-              <a href="" class='dept-head'>{{ person.fname + ' ' + person.lname }}</a>
+              <a href="" class='dept-head'>{{ person.first_name + ' ' + person.last_name }}</a>
             </p>
              <ul class="hiddenSub">
-              <li>{{department_list[data.selected_dept].dept_name}}</li>
-              <li>
-                {{buildings_facilities[0].address}}<br />{{buildings_facilities[0].city + ', '}} {{buildings_facilities[0].state+' '}} {{buildings_facilities[0].zip}}
-              </li>
-              <li>Building {{ buildings_facilities[0].building }}</li>
-              <li>Phone: {{ buildings_facilities[0].phone }}</li>
-              <li>Fax: {{ buildings_facilities[0].fax }}</li>
+               <li ng-if='person.phone'>Phone: {{person.phone}}</li>
+               <li ng-if='person.email'>Email: {{person.email}}</li>
+               <li ng-if='person.location'>Office Location: {{person.location}}</li>
+               <li>Employment Type:  {{person.type}}</li>
+               <li>Dept: {{person.dept_name}}</li>
             </ul>
      
           </div>
