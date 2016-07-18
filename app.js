@@ -61,14 +61,14 @@ function showSubLists() {
         },
         275,
         function() {
-          //adjustCol();
+        
           console.log("Show");
         }
       )
     }
 }
 
-// phpmyadmin-ctl install
+
 
 function hideSubLists() {
     var divs = $('.sectionContainer'),
@@ -83,7 +83,7 @@ function hideSubLists() {
           },
           100,
           function() {
-            //adjustCol();
+            
              console.log("hide");
           }
         ).css('display', 'none')
@@ -105,7 +105,6 @@ $('#search_field').on('keyup', function(e) {
 });
 
 $("body").on("click", ".closed a", function(e) {
-  //e.preventDefault();
   $(this)
     .parent()
     .parent()
@@ -120,8 +119,7 @@ $("body").on("click", ".closed a", function(e) {
       },
       275,
       function() {
-        //alert( "done opening" );
-        //adjustCol();
+        console.log('opened!');
       }
     )
     .dequeue()
@@ -133,7 +131,6 @@ $("body").on("click", ".closed a", function(e) {
 
 
 $("body").on("click", ".open a", function(e) {
-  // e.preventDefault();
   $(this)
     .parent()
     .parent()
@@ -153,11 +150,4 @@ $("body").on("click", ".open a", function(e) {
     )
     .dequeue()
     .clearQueue();
-});
-
-
-//$(window).resize(adjustCol);
-
-$(function() {
-   //adjustCol();
 });
