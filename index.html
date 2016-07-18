@@ -18,7 +18,7 @@
       </div>
     </div>
     <div id="mainContent">
-      <div class="col">
+      <div class="col columns large-3 medium-3 small-6">
         <div class="inner">
           <h4>Academic Programs</h4>
   
@@ -37,7 +37,7 @@
       </div>
       <!-- end .col -->
   
-      <div class="col">
+      <div class="col columns large-3 medium-3 small-6">
         <div class="inner">
           <h4>Offices &amp; Administration Services</h4>
           <div class="sectionContainer closed" ng-repeat='dept in offices_services | filter:searchText'>
@@ -51,8 +51,8 @@
           </div>
         </div><!-- end .inner -->
       </div><!-- end .col -->
-  
-      <div class="col">
+      <hr id='hr-hide'>
+      <div class="col columns large-3 medium-3 small-6">
         <div class="inner">
           <h4>Buildings &amp; Facilities</h4>
   
@@ -62,7 +62,7 @@
             <ul class='hiddenSub'>
               <li class="itemHeading">Building {{ building.code }}</li>
               <li>
-                <a href="" ><img ng-src="http://codeovermatter.com/hope-edu/images/maps/map3.jpg" /></a>
+                <a ng-href="{{ building.map_url }}" target='_blank'><img ng-src="http://codeovermatter.com/hope-edu/images/maps/map3.jpg" /></a>
                 <a class="viewFullMap" ng-href="{{ building.map_url }}" target='_blank'>View Full Map</a>
               </li>
              
@@ -71,7 +71,7 @@
         </div><!-- end .inner -->
       </div><!-- end .col -->
   
-      <div class="col">
+      <div class="col columns large-3 medium-3 small-6">
         <div class="inner">
           <h4>People</h4>
           <select name='selected_dept' ng-model='data.selected_dept'>
@@ -81,7 +81,6 @@
           
           
   <!--   Each Person's information  -->
-          
           <div class="sectionContainer closed" ng-repeat='person in departments[data.selected_dept] | filter: searchText'>
             <p>
               <a href="" class='dept-head'>{{ person.first_name + ' ' + person.last_name }}</a>

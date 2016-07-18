@@ -61,7 +61,8 @@ function showSubLists() {
         },
         275,
         function() {
-          adjustCol();
+          //adjustCol();
+          console.log("Show");
         }
       )
     }
@@ -82,7 +83,8 @@ function hideSubLists() {
           },
           100,
           function() {
-            adjustCol();
+            //adjustCol();
+             console.log("hide");
           }
         ).css('display', 'none')
     }
@@ -119,7 +121,7 @@ $("body").on("click", ".closed a", function(e) {
       275,
       function() {
         //alert( "done opening" );
-        adjustCol();
+        //adjustCol();
       }
     )
     .dequeue()
@@ -146,7 +148,7 @@ $("body").on("click", ".open a", function(e) {
       100,
       function() {
         $(this).css("display", "none");
-        adjustCol();
+        
       }
     )
     .dequeue()
@@ -154,8 +156,8 @@ $("body").on("click", ".open a", function(e) {
 });
 
 
-$(window).resize(adjustCol);
+//$(window).resize(adjustCol);
 
 $(function() {
-  adjustCol();
+   //adjustCol();
 });

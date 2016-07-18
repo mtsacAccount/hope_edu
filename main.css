@@ -42,11 +42,21 @@ h1
 
 .col
 {
-	border-right: 1px solid #CCC;
-	float: left;
 	overflow: visible;
 	padding-right: 1%;
-	width: 23%;
+  min-height: 100vh;
+}
+
+.col:first-child {
+		border: none;
+	}
+	
+.col:nth-of-type( 2 ) {
+	border-right: 1px solid #CCC;
+	border-left: 1px solid #CCC;
+}
+.col:nth-of-type( 3 ) {
+	border-right: 1px solid #CCC;
 }
 
 .col:last-child
@@ -65,6 +75,7 @@ h1
 	font-size: 22px;
 	font-weight: 600;
 }
+
 
 .sectionContainer
 {
@@ -154,24 +165,39 @@ h1
   background-color: yellow;
 }
 
+#hr-hide {
+	display: none;
+}
 
 
- @media screen and ( max-width: 1000px )
- {
+
+ @media screen and ( max-width: 1000px ) {
+ 	
+ 	#hr-hide {
+ 	  display: block;
+   }
+   
 	.col
 	{
 		margin-bottom: 50px;
 		width: 48%;
+		padding-left: 0;
+		height: auto;
 	}
+	
+	.col:first-child {
+		border-right: none;
+	}
+	
+	.col:nth-of-type( 2 ) {
+		
+		border-left: 1px solid #CCC;
+  }
 	
 	.col:nth-of-type( 2n )
 	{
 		border-right: none;
-		clear: right;
+
 	}
 	
-	.col:nth-of-type( 3 )
-	{
-		clear: left;
-	}
 }
