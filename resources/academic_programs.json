@@ -451,6 +451,166 @@
           "more_info_url": "http://catalog.mtsac.edu/programs/culinary-arts-certificate/",
           "building": "17",
           "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
+        },
+        {
+            "name": "Dance Teacher",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/dance-teacher-certificate/",
+            "building": "45",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134053"
+        },
+         {
+            "name": "Domestic Violence Certification",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/domestic-violence-certification/",
+            "building": "",
+            "map_url": ""
+        },
+         {
+            "name": "Early Childhood Education, AS-T",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/as-early-childhood-education-transfer/",
+            "building": "",
+            "map_url": ""
+        },
+         {
+            "name": "Educational Paraprofessional (Instructional Assistant), AS",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/educational-paraprofessional-instructional-assistant/",
+            "building": "",
+            "map_url": ""
+        },
+         {
+            "name": "Electronic Assembly and Fabrication Certificate",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/electronic-assembly-and-fabrication-certificate/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+         {
+            "name": "Electronics and Computer - Engineering Technology",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/electronics-computer-engineering-technology-certificate/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+         {
+            "name": "Electronics Communications",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/electronics-communications-certificate/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+         {
+            "name": "Electronics: Industrial Systems",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/electronics-industrial-systems-certificate/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+         {
+            "name": "Electronics Technology",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/electronics-technology-certificate/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+         {
+            "name": "Electronic Systems Technology - Level I",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/electronic-systems-technology-level-i/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+         {
+            "name": "Electronic Systems Technology - Level II",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/electronic-systems-technology-level-ii/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+         {
+            "name": "Emergency Medical Services, AS",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/emergency-medical-services-degree/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+         {
+            "name": "Emergency Medical Technician EMT 90",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/emergency-medical-technician-emt-90-certificate/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+         {
+            "name": "Emergency Medical Technician EMT 95",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/emergency-medical-technician-emt-95-certificate/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+         {
+            "name": "Emergency Medical Technician - Paramedic (EMT-P)",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/emergency-medical-technician-paramedic-emt-p/",
+            "building": "28A-B",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=146382"
+        },
+         {
+            "name": "English, AA-T",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/aa-english-for-transfer/",
+            "building": "26A",
+            "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134031"
+        },
+         {
+            "name": "Environmental Studies Emphasis, AA Liberal Arts and Sciences",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/aa-liberal-arts-sciences-emphasis-environmental-studies/",
+            "building": "",
+            "map_url": ""
+        },
+         {
+            "name": "Equipment Technology, AS",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "http://catalog.mtsac.edu/programs/equipment-technology-degree/",
+            "building": "",
+            "map_url": ""
+        },
+         {
+            "name": "",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "",
+            "building": "",
+            "map_url": ""
+        },
+         {
+            "name": "",
+            "phone": "",
+            "email": "", 
+            "more_info_url": "",
+            "building": "",
+            "map_url": ""
         }
 
        
