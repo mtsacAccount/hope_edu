@@ -168,7 +168,7 @@
             "phone": "(909) 274-4600",
             "email": "",
             "more_info_url": "http://catalog.mtsac.edu/programs/aa-liberal-arts-sciences-emphasis-business/",
-            "building": "17-15",
+            "building": "17",
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
         },
         {
@@ -176,7 +176,7 @@
             "phone": "(909) 274-4600",
             "email": "",
             "more_info_url": "http://mtsac.edu/management/Degree.html",
-            "building": "17-15",
+            "building": "17",
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
         },
         {
@@ -184,7 +184,7 @@
             "phone": "(909) 274-4600",
             "email": "",
             "more_info_url": "http://mtsac.edu/management/Degree.html",
-            "building": "17-15",
+            "building": "17",
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
         },
         {
@@ -192,7 +192,7 @@
             "phone": "(909) 274-4600",
             "email": "",
             "more_info_url": "http://mtsac.edu/management/Degree.html",
-            "building": "17-15",
+            "building": "17",
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
         },
         {
@@ -200,7 +200,7 @@
             "phone": "(909) 274-4600",
             "email": "",
             "more_info_url": "http://mtsac.edu/management/Degree.html",
-            "building": "17-15",
+            "building": "17",
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
         },
         {
@@ -208,7 +208,7 @@
             "phone": "(909) 274-4600",
             "email": "",
             "more_info_url": "http://mtsac.edu/management/Degree.html",
-            "building": "17-15",
+            "building": "17",
             "map_url": "http://www.myatlascms.com/map/?id=811&mrkIid=134009"
         },
         {
@@ -595,24 +595,7 @@
             "more_info_url": "http://catalog.mtsac.edu/programs/equipment-technology-degree/",
             "building": "",
             "map_url": ""
-        },
-         {
-            "name": "",
-            "phone": "",
-            "email": "", 
-            "more_info_url": "",
-            "building": "",
-            "map_url": ""
-        },
-         {
-            "name": "",
-            "phone": "",
-            "email": "", 
-            "more_info_url": "",
-            "building": "",
-            "map_url": ""
         }
-
        
     ]
 }
