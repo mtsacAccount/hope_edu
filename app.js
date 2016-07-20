@@ -37,6 +37,14 @@ app.controller('MainCtrl', ["$scope", "$http", function($scope, $http) {
   });
   
   
+  $http.get('resources/all_employees.json')
+    .success(function(data, status, headers, config) {
+      $scope.people = data;
+    })
+    .error(function(data, status, headers, config) {
+    console.log(status);
+  });
+  
 
 }]);
 

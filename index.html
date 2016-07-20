@@ -80,8 +80,8 @@
           </select>
           
           
-  <!--   Each Person's information  -->
-          <div class="sectionContainer closed" ng-repeat='person in departments[data.selected_dept] | filter: searchText'>
+  <!--   Each Person's information for Select Dept Option  -->
+        <div class="sectionContainer closed" ng-repeat='person in departments[data.selected_dept] | filter: searchText'>
             <p>
               <a href="" class='dept-head'>{{ person.first_name + ' ' + person.last_name }}</a>
             </p>
@@ -92,12 +92,22 @@
                <li>Employment Type:  {{person.type}}</li>
                <li>Dept: {{person.dept_name}}</li>
             </ul>
-     
-          </div>
-          
-                
-  <!-- End of Person's information  -->  
-          
+         </div>
+  <!-- End of Person's information for Select Dept Option -->
+   <!-- Each Person's Information from all_employees.json -->
+        <div class="sectionContainer closed" ng-if='searchText.length >= 3' ng-repeat='person in people | filter: searchText'>
+            <p>
+              <a href="" class='dept-head'>{{ person.first_name + ' ' + person.last_name }}</a>
+            </p>
+             <ul class="hiddenSub">
+               <li ng-if='person.phone'>Phone: {{person.phone}}</li>
+               <li ng-if='person.email'>Email: {{person.email}}</li>
+               <li ng-if='person.location'>Office Location: {{person.location}}</li>
+               <li>Employment Type:  {{person.type}}</li>
+               <li>Dept: {{person.dept_name}}</li>
+            </ul>
+         </div>
+  <!-- End of Each Person's Information from all_employees.json -->        
         </div><!-- end .inner -->
       </div><!-- end .col -->
       
