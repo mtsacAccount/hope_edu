@@ -1,7 +1,7 @@
 <?php
-   // $string = file_get_contents("../resources/all_depts.json");
+    $string = file_get_contents("../resources/all_depts_3.json");
     $departments = json_decode($string, true);
-    $departments = $departments['departments'];
+ 
     // echo "<pre>";
     //         print_r($departments);
     // echo "</pre>";
@@ -24,12 +24,12 @@
     
     
     // connect to db and write query
-   // include('../includes/mysqli_connect.php');
+    include('../includes/mysqli_connect.php');
     
     
     
     foreach(array_keys($master_obj) as $dept) {
-         $q = "SELECT * FROM `employees_2` WHERE `dept_name`= '$dept' ";
+         $q = "SELECT * FROM `employees_3` WHERE `dept_name`= '$dept' ";
          $r = mysqli_query($dbc, $q);
          
          
@@ -37,11 +37,12 @@
              $employee = array();
              $employee['first_name'] = $row['first_name'];
              $employee['last_name'] = $row['last_name'];
+             $employee['full_name'] = $row['full_name'];
              $employee['phone'] = $row['phone'];
              $employee['dept_name'] = $row['dept_name'];
              $employee['location'] = $row['location'];
              $employee['email'] = $row['email'];
-             $employee['type'] = $row['type'];
+             $employee['title'] = $row['title'];
              $master_obj[$dept][] = $employee;
          }
        
@@ -54,7 +55,7 @@
     //         print_r($master_obj);
     // echo "</pre>"
     
-    $fp = fopen('../resources/column_4_data.json', 'w');
+    $fp = fopen('../resources/column_4_data_3.json', 'w');
     fwrite($fp, json_encode($master_obj));
     fclose($fp);
     

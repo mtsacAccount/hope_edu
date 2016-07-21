@@ -14871,3 +14871,46 @@
 [18-Jul-2016 02:45:55 UTC] PHP Stack trace:
 [18-Jul-2016 02:45:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
 [18-Jul-2016 02:45:55 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/write/building_column_4.php:36
+[21-Jul-2016 17:37:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/write/building_column_4.php on line 14
+[21-Jul-2016 17:37:44 UTC] PHP Stack trace:
+[21-Jul-2016 17:37:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:37:44 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/write/building_column_4.php on line 51
+[21-Jul-2016 17:37:44 UTC] PHP Stack trace:
+[21-Jul-2016 17:37:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:37:44 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/write/building_column_4.php:51
+[21-Jul-2016 17:37:44 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/write/building_column_4.php on line 52
+[21-Jul-2016 17:37:44 UTC] PHP Stack trace:
+[21-Jul-2016 17:37:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:37:44 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/write/building_column_4.php:52
+[21-Jul-2016 17:38:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/write/building_column_4.php on line 14
+[21-Jul-2016 17:38:38 UTC] PHP Stack trace:
+[21-Jul-2016 17:38:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:38:38 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/write/building_column_4.php on line 51
+[21-Jul-2016 17:38:38 UTC] PHP Stack trace:
+[21-Jul-2016 17:38:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:38:38 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/write/building_column_4.php:51
+[21-Jul-2016 17:38:38 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/write/building_column_4.php on line 52
+[21-Jul-2016 17:38:38 UTC] PHP Stack trace:
+[21-Jul-2016 17:38:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:38:38 UTC] PHP   2. mysqli_close() /home/ubuntu/workspace/write/building_column_4.php:52
+[21-Jul-2016 17:42:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/write/building_column_4.php on line 14
+[21-Jul-2016 17:42:11 UTC] PHP Stack trace:
+[21-Jul-2016 17:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:42:11 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/write/building_column_4.php on line 51
+[21-Jul-2016 17:42:11 UTC] PHP Stack trace:
+[21-Jul-2016 17:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:42:11 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/write/building_column_4.php:51
+[21-Jul-2016 17:43:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/write/building_column_4.php on line 14
+[21-Jul-2016 17:43:12 UTC] PHP Stack trace:
+[21-Jul-2016 17:43:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:43:12 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/write/building_column_4.php on line 51
+[21-Jul-2016 17:43:12 UTC] PHP Stack trace:
+[21-Jul-2016 17:43:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:43:12 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/write/building_column_4.php:51
+[21-Jul-2016 17:44:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/write/building_column_4.php on line 14
+[21-Jul-2016 17:44:09 UTC] PHP Stack trace:
+[21-Jul-2016 17:44:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:54:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/write/building_column_4.php on line 36
+[21-Jul-2016 17:54:49 UTC] PHP Stack trace:
+[21-Jul-2016 17:54:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/write/building_column_4.php:0
+[21-Jul-2016 17:54:49 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/write/building_column_4.php:36

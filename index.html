@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <title>Hope Edu Clone</title>
   <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-  <!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.5/angular.min.js"></script>-->
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.2.0/foundation.min.css" type="text/css" />
   <link rel="stylesheet" href="main.css" type="text/css" />
@@ -21,8 +20,6 @@
       <div class="col columns large-3 medium-3 small-6">
         <div class="inner">
           <h4>Academic Programs</h4>
-  
-  
           <div class="sectionContainer closed" ng-repeat='program in programs | filter:searchText'>
             <p><a href="" class='dept-head'>{{ :: program.name }}</a></p>
             <ul class="hiddenSub">
@@ -39,7 +36,7 @@
   
       <div class="col columns large-3 medium-3 small-6">
         <div class="inner">
-          <h4>Offices &amp; Administration Services</h4>
+          <h4>Services &amp; Administration Offices</h4>
           <div class="sectionContainer closed" ng-repeat='dept in offices_services | filter:searchText'>
             <p><a href="" class='dept-head'>{{ :: dept.name}}</a></p>
             <ul class="hiddenSub">
@@ -74,22 +71,22 @@
       <div class="col columns large-3 medium-3 small-6">
         <div class="inner">
           <h4>People</h4>
-          <select name='selected_dept' ng-model='data.selected_dept'>
+          <select ng-show='!searchText' name='selected_dept' ng-model='data.selected_dept'>
             <option value="" selected>SELECT A DEPARTMENT</option>
             <option ng-repeat='(dept, list) in departments' value="{{dept}}">{{dept}}</option>
           </select>
           
           
   <!--   Each Person's information for Select Dept Option  -->
-        <div class="sectionContainer closed" ng-repeat='person in departments[data.selected_dept] | filter: searchText'>
+        <div ng-show='!searchText' class="sectionContainer closed" ng-repeat='person in departments[data.selected_dept] | filter: searchText'>
             <p>
-              <a href="" class='dept-head'>{{ person.first_name + ' ' + person.last_name }}</a>
+              <a href="" class='dept-head'>{{ person.full_name }}</a>
             </p>
              <ul class="hiddenSub">
                <li ng-if='person.phone'>Phone: {{person.phone}}</li>
                <li ng-if='person.email'>Email: {{person.email}}</li>
                <li ng-if='person.location'>Office Location: {{person.location}}</li>
-               <li>Employment Type:  {{person.type}}</li>
+               <li>Title:  {{person.title}}</li>
                <li>Dept: {{person.dept_name}}</li>
             </ul>
          </div>
@@ -97,13 +94,13 @@
    <!-- Each Person's Information from all_employees.json -->
         <div class="sectionContainer closed" ng-if='searchText.length >= 3' ng-repeat='person in people | filter: searchText'>
             <p>
-              <a href="" class='dept-head'>{{ person.first_name + ' ' + person.last_name }}</a>
+              <a href="" class='dept-head'>{{ person.full_name }}</a>
             </p>
              <ul class="hiddenSub">
                <li ng-if='person.phone'>Phone: {{person.phone}}</li>
                <li ng-if='person.email'>Email: {{person.email}}</li>
                <li ng-if='person.location'>Office Location: {{person.location}}</li>
-               <li>Employment Type:  {{person.type}}</li>
+               <li>Title:  {{person.title}}</li>
                <li>Dept: {{person.dept_name}}</li>
             </ul>
          </div>

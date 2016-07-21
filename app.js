@@ -28,7 +28,7 @@ app.controller('MainCtrl', ["$scope", "$http", function($scope, $http) {
   });
   
   
- $http.get('resources/column_4_data.json')
+ $http.get('resources/column_4_data_3.json')
   .success(function(data, status, headers, config) {
     $scope.departments = data;
   })
@@ -37,7 +37,7 @@ app.controller('MainCtrl', ["$scope", "$http", function($scope, $http) {
   });
   
   
-  $http.get('resources/all_employees.json')
+  $http.get('resources/all_employees_3.json')
     .success(function(data, status, headers, config) {
       $scope.people = data;
     })

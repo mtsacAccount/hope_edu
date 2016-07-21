@@ -1,8 +1,8 @@
 <?php
     // connect to the database
-    //require_once('../includes/mysqli_connect.php');
+    require_once('../includes/mysqli_connect.php');
     // query string
-    $q = 'SELECT `dept_name` FROM `employees_2`';
+    $q = 'SELECT `dept_name` FROM `employees_3`';
     $r = mysqli_query($dbc, $q);
     // Initialize array to put depratments in
     $departments = array();
@@ -20,7 +20,7 @@
     
     sort($departments);
     
-    $fp = fopen('../resources/all_depts.json', 'w');
+    $fp = fopen('../resources/all_depts_3.json', 'w');
     fwrite($fp, json_encode($departments));
     fclose($fp);
     
